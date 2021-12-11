@@ -1,6 +1,6 @@
 #EXTINF:-1,Дождь
 http://127.0.0.1:6878/ace/getstream?id=a1408b36bcc0bd308601147119138c4088742365&.mp4
-#EXTINF:-1,СТС
+#EXTINF:-1 group-title="СТС1" tvg-name="СТС" tvg-logo="https://karnei4.github.io/convert/sts.png",СТС
 http://127.0.0.1:6878/ace/getstream?id=af919a410f17609c4e0b0ecc9fcc16025288b791&.mp4
 #EXTINF:-1,К1
 http://127.0.0.1:6878/ace/getstream?id=a15b22735fe577f46cef8262c76e341bf18b7d95&.mp4
