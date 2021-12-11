@@ -1,6 +1,34 @@
+#EXTINF:-1,Первый канал HD
+http://127.0.0.1:6878/ace/getstream?id=747de96a062d3bfc8353052f7f35fe49c6a38030&.mp4
+#EXTINF:-1,Россия 1 HD
+http://127.0.0.1:6878/ace/getstream?id=64ab00b36784cea281b079eb984d663b6c5c1a71&.mp4
+#EXTINF:-1,НТВ HD
+http://127.0.0.1:6878/ace/getstream?id=2a4a7ffebbd4fd04650e505ce30501bb57bcede4&.mp4
+#EXTINF:-1,ТВ Центр
+http://127.0.0.1:6878/ace/getstream?id=b4990ad9e279dee11ad98198a1fadcd72dcdbcc6&.mp4
+#EXTINF:-1,РЕН ТВ HD
+http://127.0.0.1:6878/ace/getstream?id=e191ac2dbc186ef1f801416213b0829ad54d261d&.mp4
+#EXTINF:-1,ТНТ HD
+http://127.0.0.1:6878/ace/getstream?id=5b4690778c4dc3fbfb6246af893296a217c54cf0&.mp4
+#EXTINF:-1,ТНТ4 HD
+http://127.0.0.1:6878/ace/getstream?id=bdae095c3d2611bc28192c8f507951f193c1c657&.mp4
+#EXTINF:-1,СТС HD
+http://127.0.0.1:6878/ace/getstream?id=429589fd6f42d5c240a5d8a620a896a4e92f3299&.mp4
+#EXTINF:-1,Россия 24
+http://127.0.0.1:6878/ace/getstream?id=85ed30a1c80488617ed6e72a1829742588bb111e&.mp4
+#EXTINF:-1,Домашний
+http://127.0.0.1:6878/ace/getstream?id=90cb1ea22809f93abc96f148f2d56a26cdaa35a5&.mp4
+#EXTINF:-1,Домашний (РФ)
+http://127.0.0.1:6878/ace/getstream?id=5ba7a52179775309f41de78d227508165432077d&.mp4
+#EXTINF:-1,ТВ 3
+http://127.0.0.1:6878/ace/getstream?id=d6ef46ac76d26b47488c32c95b8a81a70d42b8df&.mp4
+#EXTINF:-1,ТВ3 HD
+http://127.0.0.1:6878/ace/getstream?id=a8452ffa735f9843b7ce1d6f01150f33247f3e6d&.mp4
+#EXTINF:-1,Матч! ТВ HD
+http://127.0.0.1:6878/ace/getstream?id=f0cca6ea4d59beab5fa861d00153ab26f896d8ce&.mp4
 #EXTINF:-1,Дождь
 http://127.0.0.1:6878/ace/getstream?id=a1408b36bcc0bd308601147119138c4088742365&.mp4
-#EXTINF:-1 group-title="СТС1" tvg-name="СТС" tvg-logo="https://karnei4.github.io/convert/sts.png",СТС
+#EXTINF:-1,СТС
 http://127.0.0.1:6878/ace/getstream?id=af919a410f17609c4e0b0ecc9fcc16025288b791&.mp4
 #EXTINF:-1,К1
 http://127.0.0.1:6878/ace/getstream?id=a15b22735fe577f46cef8262c76e341bf18b7d95&.mp4
@@ -10,14 +38,10 @@ http://127.0.0.1:6878/ace/getstream?id=5a299b70fda1ec61050326aeab8a9b116e724bc5&
 http://127.0.0.1:6878/ace/getstream?id=4d9ee96e0fcea646038e2c9812ae809f757c92ef&.mp4
 #EXTINF:-1,Россия К
 http://127.0.0.1:6878/ace/getstream?id=b8d4e43252e3300131eb985bd32cd920bc6dc04d&.mp4
-#EXTINF:-1group-title="Россия 24Г" tvg-name="Россия 24" tvg-logo="https://karnei4.github.io/convert/russia24.png",Россия 24
-http://127.0.0.1:6878/ace/getstream?id=85ed30a1c80488617ed6e72a1829742588bb111e&.mp4
 #EXTINF:-1,Известия
 http://127.0.0.1:6878/ace/getstream?id=dd2e2029436be5b306a244f0afac14458bf4a35c&.mp4
 #EXTINF:-1,МИР
 http://127.0.0.1:6878/ace/getstream?id=54e8b501e1b280f760aa0f585ed5d69135c49575&.mp4
-#EXTINF:-1,СТВ (Беларусь)
-http://127.0.0.1:6878/ace/getstream?id=b8b4cc9e817467ef9aac6883386303a3ec283d9b&.mp4
 #EXTINF:-1,КТК
 http://127.0.0.1:6878/ace/getstream?id=958f00b805b4e07b3d1bef70f568d2c52b2fec28&.mp4
 #EXTINF:-1,РБК
@@ -26,8 +50,6 @@ http://127.0.0.1:6878/ace/getstream?id=3b3821af41b698a6cca83a190278c1865a1f7afc&
 http://127.0.0.1:6878/ace/getstream?id=9a3f3ce3d9f7d0cce8c5139ce2bc4d13ba5bab27&.mp4
 #EXTINF:-1,Астрахань 24
 http://127.0.0.1:6878/ace/getstream?id=3aba4723f5d37cba8524a4d12d76619f9bf3b4c1&.mp4
-#EXTINF:-1,Беларусь 24
-http://127.0.0.1:6878/ace/getstream?id=d186f0cc43415b5512f25b18e068970ff767e05d&.mp4
 #EXTINF:-1,Ваз ТВ
 http://127.0.0.1:6878/ace/getstream?id=6718b9c723a1a08e05ab71aeb91de6ae308bfcaf&.mp4
 #EXTINF:-1,Губерния
@@ -50,28 +72,18 @@ http://127.0.0.1:6878/ace/getstream?id=9bdcedd67213265fc3c540628d9ee82638fcf33b&
 http://127.0.0.1:6878/ace/getstream?id=69111565243ecf3d053b68454baf884c52ee3e5e&.mp4
 #EXTINF:-1,Эхо TV (Рязань)
 http://127.0.0.1:6878/ace/getstream?id=5cc3e1acddfdfabe90fdf26e315bfdf380636f5d&.mp4
-#EXTINF:-1,112 Україна
-http://127.0.0.1:6878/ace/getstream?id=071f39ada9e807fb0ff25b2a92243116c0716b92&.mp4
 #EXTINF:-1,86 канал (Сургут) +2
 http://127.0.0.1:6878/ace/getstream?id=87293d4dc5c976a0c756204eb6d16b21ab2e7deb&.mp4
 #EXTINF:-1,HIT (Орск)
 http://127.0.0.1:6878/ace/getstream?id=f91a658e5167064cf484055a301ff37d08a1427c&.mp4
-#EXTINF:-1,Olvia (Одесса)
-http://127.0.0.1:6878/ace/getstream?id=ef1776c92c3b07c6a6f0aedfc839addbf69b33ca&.mp4
-#EXTINF:-1,RENOME (Одесса)
-http://127.0.0.1:6878/ace/getstream?id=92d1caed038ddb6637021e02cec07f3c9ac51726&.mp4
 #EXTINF:-1,RT Документальный HD
 http://127.0.0.1:6878/ace/getstream?id=6381973dc78f9aea1b8716296482a3f8d2f9cf67&.mp4
 #EXTINF:-1,Ветта 24
 http://127.0.0.1:6878/ace/getstream?id=375a8287970dcd7090cfc1aec094814aa034e7ff&.mp4
-#EXTINF:-1,Горизонт ТВ UA
-http://127.0.0.1:6878/ace/getstream?id=7936de3d58e26cc769e535bb1212a9df26d21e52&.mp4
 #EXTINF:-1,Ел Арна
 http://127.0.0.1:6878/ace/getstream?id=ede9e036e5f4caab6a6c08a5163fb6311ab2d972&.mp4
 #EXTINF:-1,Жар-Птица [FHD]
 http://127.0.0.1:6878/ace/getstream?id=2d18269fae0d672d98fd5387426dc2e9988f67db&.mp4
-#EXTINF:-1,Здоровье (Одесса)
-http://127.0.0.1:6878/ace/getstream?id=f28119e9966020954f474ac14b3e5966e7fa2472&.mp4
 #EXTINF:-1,Крым 1
 http://127.0.0.1:6878/ace/getstream?id=5bfb7a571b1f0d1ff57a1f33a0116b589bd2d82c&.mp4
 #EXTINF:-1,Культура
@@ -94,12 +106,8 @@ http://127.0.0.1:6878/ace/getstream?id=c6a4428938e861af01bf8266ce02dd05197b81fa&
 http://127.0.0.1:6878/ace/getstream?id=60cb945103c08530714a923bd41d083529069ffe&.mp4
 #EXTINF:-1,Одинцово ТВ
 http://127.0.0.1:6878/ace/getstream?id=5098d13005f3ce3b518747b09afb549d15737780&.mp4
-#EXTINF:-1,Первый Городской (Одесса)
-http://127.0.0.1:6878/ace/getstream?id=b506d6f1d5c94cd65ec5ef55cc920b158e715ae2&.mp4
 #EXTINF:-1,Правда ТУТ
 http://127.0.0.1:6878/ace/getstream?id=9ea3ef73bbfee2290ef6e126ac3dab65bc2bef64&.mp4
-#EXTINF:-1,Правда ТУТ HD (Киев)
-http://127.0.0.1:6878/ace/getstream?id=6364e7af25db63598ca6680abea38b4156651453&.mp4
 #EXTINF:-1,Прямый
 http://127.0.0.1:6878/ace/getstream?id=67b36e50fe8647e17fa35d268639e6406db8cb93&.mp4
 #EXTINF:-1,РЖД
@@ -114,8 +122,6 @@ http://127.0.0.1:6878/ace/getstream?id=51bc23dbdca846f0548a7ee6ffa101a3a4c00b12&
 http://127.0.0.1:6878/ace/getstream?id=357e876f29c31f9dcab35540838bf8fa3026045d&.mp4
 #EXTINF:-1,ТВР 24 (С.Посад)
 http://127.0.0.1:6878/ace/getstream?id=efc902e717695f364b2feeef81bc0703b1cfb015&.mp4
-#EXTINF:-1,ТРК Репортер (Одесса)
-http://127.0.0.1:6878/ace/getstream?id=0f174ff0e6ab9f82307e97285fc79fa199572257&.mp4
 #EXTINF:-1,Хабар 24
 http://127.0.0.1:6878/ace/getstream?id=84022e93a9a9ddc8b7807c40e6d6d6a2a521ad19&.mp4
 #EXTINF:-1,Халык Арна
@@ -130,8 +136,6 @@ http://127.0.0.1:6878/ace/getstream?id=a9322a787a5d0a0e1534216c5c42592ace6b29bb&
 http://127.0.0.1:6878/ace/getstream?id=4322475911c2c5ca56857a6ef764e0b0be99d73a&.mp4
 #EXTINF:-1,Курай
 http://127.0.0.1:6878/ace/getstream?id=a295c703486e2003bf0975520913373ea59cc983&.mp4
-#EXTINF:-1,А1 (Одесса)
-http://127.0.0.1:6878/ace/getstream?id=09490dcc3e0ff2070ddeb0d1246a67eefd293562&.mp4
 #EXTINF:-1,ЮТВ (Чебоксары)
 http://127.0.0.1:6878/ace/getstream?id=dd5481b22dbb178e49023aef6182a80e586d47f7&.mp4
 #EXTINF:-1,Губерния (Самара)
@@ -140,14 +144,10 @@ http://127.0.0.1:6878/ace/getstream?id=6b55b34713398b3a43ec2e2c6971380c14ba0b12&
 http://127.0.0.1:6878/ace/getstream?id=52a9fb24e63dc7947620f8fd5dd4521a652a7fd0&.mp4
 #EXTINF:-1,Дисконт
 http://127.0.0.1:6878/ace/getstream?id=a8ec6eb052248dfe9d87fbd5148b33c4b7350972&.mp4
-#EXTINF:-1,Культура UA
-http://127.0.0.1:6878/ace/getstream?id=914c9aee5c96d519e241dab72940ee980ce192f0&.mp4
 #EXTINF:-1,ТНВ Планета
 http://127.0.0.1:6878/ace/getstream?id=f76b29c75d2f5544c89c54ff77c15ac17afa0ba2&.mp4
 #EXTINF:-1,Хузур ТВ (Татарстан)
 http://127.0.0.1:6878/ace/getstream?id=700dd21304622452c4c1a51d6e3bd399d2a27153&.mp4
-#EXTINF:-1,UA Крым
-http://127.0.0.1:6878/ace/getstream?id=679ce50bab92a38fc59fa76e7674e9162cca55a7&.mp4
 #EXTINF:-1,Губерния (Воронеж)
 http://127.0.0.1:6878/ace/getstream?id=44acbf384173ac018b5c74b4739b32ff3c3f7d44&.mp4
 #EXTINF:-1,Рада
@@ -156,8 +156,6 @@ http://127.0.0.1:6878/ace/getstream?id=699203c415791c00f552b04efed10f46ac3fa4a7&
 http://127.0.0.1:6878/ace/getstream?id=1bfad7e760f894a08de8d7a205f9102da957ea22&.mp4
 #EXTINF:-1,Чернівецький Промінь
 http://127.0.0.1:6878/ace/getstream?id=43ff4d99eecb116c4c39839db8d22cf1974fc823&.mp4
-#EXTINF:-1,Киев TV
-http://127.0.0.1:6878/ace/getstream?id=f9afd8d9f6ab776fa56887565b4fb71707e1bb2b&.mp4
 #EXTINF:-1,Архыз 24
 http://127.0.0.1:6878/ace/getstream?id=fe803a22e80c11fb460a608603548d568c42b853&.mp4
 #EXTINF:-1,Надія
@@ -168,20 +166,8 @@ http://127.0.0.1:6878/ace/getstream?id=28c53c7c9f2e0bdc18d54d53f2bf6644dddd25d4&
 http://127.0.0.1:6878/ace/getstream?id=27cd802646e9230f62fd9ff424b4cab25fcf5e9b&.mp4
 #EXTINF:-1,Дагестан
 http://127.0.0.1:6878/ace/getstream?id=28a3bb8542eb6de0dca9d07be5ae5169d9259660&.mp4
-#EXTINF:-1,ТIС (Одесса)
-http://127.0.0.1:6878/ace/getstream?id=bd70e7d18a0257642a9e01a458da6c68dbb0fd4e&.mp4
-#EXTINF:-1,Думская TV HD (Одесса)
-http://127.0.0.1:6878/ace/getstream?id=a9309824d7de5e7092dfb2b36a2366e449778556&.mp4
-#EXTINF:-1,Третий Цифровой (Одесса)
-http://127.0.0.1:6878/ace/getstream?id=b9cfddcba4a514944d4443e5c383ea287e4d429f&.mp4
-#EXTINF:-1,UA:КРИМ
-http://127.0.0.1:6878/ace/getstream?id=8899492bad991a14a1ccf9627d6b74d17f65b2db&.mp4
 #EXTINF:-1,Первый деловой
 http://127.0.0.1:6878/ace/getstream?id=418ddf9c33f8750a105f4ee9bf7a0cb15b047718&.mp4
-#EXTINF:-1,UA Культура
-http://127.0.0.1:6878/ace/getstream?id=052810ee735d8963926cafc4d18b68ad9bc3386c&.mp4
-#EXTINF:-1,Киев
-http://127.0.0.1:6878/ace/getstream?id=7086474b157a8560b55a5368ddfacd0e3fea7e25&.mp4
 #EXTINF:-1,Кубань 24 Орбита
 http://127.0.0.1:6878/ace/getstream?id=e409a213bfe2bcf09179c94a191d9d7bc7836054&.mp4
 #EXTINF:-1,ТРК Евразия (Орск) +2
@@ -194,16 +180,10 @@ http://127.0.0.1:6878/ace/getstream?id=54352ba71f9ad8f49bfd134aa0f2be4683703c41&
 http://127.0.0.1:6878/ace/getstream?id=d1c83a019a450fa41b877a3dd7f0c190eeae733c&.mp4
 #EXTINF:-1,Прямой
 http://127.0.0.1:6878/ace/getstream?id=aa0fe20abddd0b5dff2c1a1a5c4ea98c397f5134&.mp4
-#EXTINF:-1,Третий Цифровой Одесса
-http://127.0.0.1:6878/ace/getstream?id=a46147f0b7e542a16336bd6778baafad865fca49&.mp4
 #EXTINF:-1,Югра
 http://127.0.0.1:6878/ace/getstream?id=0e37179319267da0363bbb48f213996e00b16c43&.mp4
-#EXTINF:-1,LEKARIS.TV HD Украина
-http://127.0.0.1:6878/ace/getstream?id=a01f6ff50a320840bc7b6c6bb12b727c539f4f35&.mp4
 #EXTINF:-1,Наша Сибирь
 http://127.0.0.1:6878/ace/getstream?id=d57a2610f163f2c2e31a8451b269d4bec7f069a9&.mp4
-#EXTINF:-1,Первый Городской (Кривой Рог)
-http://127.0.0.1:6878/ace/getstream?id=1fb1091d3ee07148b50d3dbdd3c667cf783df103&.mp4
 #EXTINF:-1,Тамыр
 http://127.0.0.1:6878/ace/getstream?id=faf22ad7d225b46af8efa4bd28eb3fe46ebb3c07&.mp4
 #EXTINF:-1,Туркменистан
@@ -212,8 +192,6 @@ http://127.0.0.1:6878/ace/getstream?id=aa1fa64f97bb8994b5e9d601b9bd60befec8cd61&
 http://127.0.0.1:6878/ace/getstream?id=031a48ee3c3ef5540ce2312222d252d0fde255da&.mp4
 #EXTINF:-1,Матч! Арена
 http://127.0.0.1:6878/ace/getstream?id=6885b8ae968708a3ffd7264e3191d4b71a776d1e&.mp4
-#EXTINF:-1,Беларусь 5
-http://127.0.0.1:6878/ace/getstream?id=baf1f4bf62daf288e3717509ca249b8b66c06001&.mp4
 #EXTINF:-1,Россия 1
 http://127.0.0.1:6878/ace/getstream?id=90f6acf804d069c028ffd1dbb103b6850c17928a&.mp4
 #EXTINF:-1,НТВ (+2)
@@ -226,16 +204,10 @@ http://127.0.0.1:6878/ace/getstream?id=e993696a8d1f7b67d87011ec030137ec947b44a9&
 http://127.0.0.1:6878/ace/getstream?id=7e9a0c271d243f3f629c68522bd4b7a8bfcfe19b&.mp4
 #EXTINF:-1,Евроспорт 4к
 http://127.0.0.1:6878/ace/getstream?id=b2069cd5ade30a2f4cc9f21b7d10f12634fa3fda&.mp4
-#EXTINF:-1,ТНТ HD
-http://127.0.0.1:6878/ace/getstream?id=5b4690778c4dc3fbfb6246af893296a217c54cf0&.mp4
 #EXTINF:-1,ТНТ (+2)
 http://127.0.0.1:6878/ace/getstream?id=5e496d35bb5b471184ec23fe0e0d92cf9853dca8&.mp4
-#EXTINF:-1,Матч! ТВ HD
-http://127.0.0.1:6878/ace/getstream?id=f0cca6ea4d59beab5fa861d00153ab26f896d8ce&.mp4
 #EXTINF:-1,НТВ (+7)
 http://127.0.0.1:6878/ace/getstream?id=00c410e81d9254063176a52e0a727e1a602efacc&.mp4
-#EXTINF:-1,ТВ Центр
-http://127.0.0.1:6878/ace/getstream?id=b4990ad9e279dee11ad98198a1fadcd72dcdbcc6&.mp4
 #EXTINF:-1,РЕН ТВ
 http://127.0.0.1:6878/ace/getstream?id=bd1ad32b982b1c61daf3bddcc632a00842f7866d&.mp4
 #EXTINF:-1,Россия 1 (-1)
@@ -262,8 +234,6 @@ http://127.0.0.1:6878/ace/getstream?id=24f8eab6156068b9d227ffe854a1e0f6aeec983a&
 http://127.0.0.1:6878/ace/getstream?id=1eecbcc20a5d7acac980a1a28ed291fc800e15c2&.mp4
 #EXTINF:-1,Новороссия ТВ HD
 http://127.0.0.1:6878/ace/getstream?id=178e9a88d33bbe2f649cbe631345c5307e462077&.mp4
-#EXTINF:-1,Домашний (РФ)
-http://127.0.0.1:6878/ace/getstream?id=5ba7a52179775309f41de78d227508165432077d&.mp4
 #EXTINF:-1,Киноман ТВ
 http://127.0.0.1:6878/ace/getstream?id=8b27ac1492759917ee65cdfde13bc24c8a3c8450&.mp4
 #EXTINF:-1,ПЯТНИЦА
@@ -354,18 +324,12 @@ http://127.0.0.1:6878/ace/getstream?id=72031538cd0860a2d5c193fb5a41310fc150c197&
 http://127.0.0.1:6878/ace/getstream?id=2028898e531cac6e42ca097d248051ed624e1d82&.mp4
 #EXTINF:-1,Пятый канал (+2)
 http://127.0.0.1:6878/ace/getstream?id=7451464f8bf8bc2e91456f2aecb61d3cc85cffa3&.mp4
-#EXTINF:-1,Репортер (Одесса)
-http://127.0.0.1:6878/ace/getstream?id=0b7d1f98b8f4670a3cd329945dd30dcff9874c31&.mp4
 #EXTINF:-1,Россия 1 (Пенза)
 http://127.0.0.1:6878/ace/getstream?id=2edd2a8fa6ccddf059011bbb069b6a39264ecd2c&.mp4
 #EXTINF:-1,Россия 24 (Сочи)
 http://127.0.0.1:6878/ace/getstream?id=6cc8ea573cfac9020155df01c3503c5005378680&.mp4
 #EXTINF:-1,СТС (+2)
 http://127.0.0.1:6878/ace/getstream?id=cea91223b71f59122e895c599d507e470cf2b062&.mp4
-#EXTINF:-1,ТВ 3
-http://127.0.0.1:6878/ace/getstream?id=d6ef46ac76d26b47488c32c95b8a81a70d42b8df&.mp4
-#EXTINF:-1,ТВ3 HD
-http://127.0.0.1:6878/ace/getstream?id=a8452ffa735f9843b7ce1d6f01150f33247f3e6d&.mp4
 #EXTINF:-1,ТВЦ (+2)
 http://127.0.0.1:6878/ace/getstream?id=eb56d25e7dd949efcfb204b29c9447af14ac1793&.mp4
 #EXTINF:-1,ТВЦ (+4)
@@ -382,8 +346,6 @@ http://127.0.0.1:6878/ace/getstream?id=e16994d75c33d9d001a6b6680eca8f31882e59bc&
 http://127.0.0.1:6878/ace/getstream?id=26478fe8519ad2e6f14548592eca20f8e1b0fea7&.mp4
 #EXTINF:-1,CGTN Русский
 http://127.0.0.1:6878/ace/getstream?id=73c8635a83f779b0f890f2316dbd655a7f189655&.mp4
-#EXTINF:-1,TBN Украина
-http://127.0.0.1:6878/ace/getstream?id=3a196a107428ba00e5bceeb9e923a6c9a5c677a6&.mp4
 #EXTINF:-1,USA - Озеро Висконсин
 http://127.0.0.1:6878/ace/getstream?id=102f5f2236a302ba760ab48ef6ce620127776955&.mp4
 #EXTINF:-1,АИСТ
@@ -392,8 +354,6 @@ http://127.0.0.1:6878/ace/getstream?id=709373b5e3f1f4fe908d458b378e358244cd5400&
 http://127.0.0.1:6878/ace/getstream?id=8b9ba7918f89aa339d95b26c14ed7c1cc37e9d62&.mp4
 #EXTINF:-1,Белсат TV
 http://127.0.0.1:6878/ace/getstream?id=12b18ec9d0697a47364c9c6b643b83081b55b56d&.mp4
-#EXTINF:-1,ВТВ Плюс (Херсон)
-http://127.0.0.1:6878/ace/getstream?id=fc26432c5b663cb20cea58f08266461b5344c25a&.mp4
 #EXTINF:-1,Вариант ТВ (Владимир)
 http://127.0.0.1:6878/ace/getstream?id=d6a1db0f43613da27f7c09ab60825a415f55f261&.mp4
 #EXTINF:-1,Владивосток 6 [FHD]
@@ -414,8 +374,6 @@ http://127.0.0.1:6878/ace/getstream?id=98c275190932d22c58cddfdec83d2694b16c648e&
 http://127.0.0.1:6878/ace/getstream?id=5180be108588533f1baffbaf4c8c5ec8e3b26cc0&.mp4
 #EXTINF:-1,Детское|Кино
 http://127.0.0.1:6878/ace/getstream?id=5dccf173db622f81da4f357d9b3ed4b10fa33ea3&.mp4
-#EXTINF:-1,Домашний
-http://127.0.0.1:6878/ace/getstream?id=90cb1ea22809f93abc96f148f2d56a26cdaa35a5&.mp4
 #EXTINF:-1,Донбас Online HD
 http://127.0.0.1:6878/ace/getstream?id=292e639e9397cb48a6e8c7a94a1aecebc01e515b&.mp4
 #EXTINF:-1,Енисей
@@ -476,8 +434,6 @@ http://127.0.0.1:6878/ace/getstream?id=4a2235c37d2b3f84702e2911cbf7405138b6b371&
 http://127.0.0.1:6878/ace/getstream?id=6c4640df8ed85ac86c0ab2e92093c88be412df23&.mp4
 #EXTINF:-1,РБК ТВ
 http://127.0.0.1:6878/ace/getstream?id=28c1b56d7e35ba0559609494e61669565dde57ad&.mp4
-#EXTINF:-1,РЕН ТВ HD
-http://127.0.0.1:6878/ace/getstream?id=e191ac2dbc186ef1f801416213b0829ad54d261d&.mp4
 #EXTINF:-1,РЖД ТВ HD
 http://127.0.0.1:6878/ace/getstream?id=ac7e83affe905e811c3add2c3704871c91d42679&.mp4
 #EXTINF:-1,Радость Моя
@@ -486,8 +442,6 @@ http://127.0.0.1:6878/ace/getstream?id=09dc33df997742992ccedbda17b6ec9c29ebfe4d&
 http://127.0.0.1:6878/ace/getstream?id=387ceee76ba42b07d0d55b4c6cf1b453cd8e2d9d&.mp4
 #EXTINF:-1,Россия 1 (Калининград)
 http://127.0.0.1:6878/ace/getstream?id=6fdbd53b68b18283c3f79f73070f245edc7e39dc&.mp4
-#EXTINF:-1,Россия 1 HD
-http://127.0.0.1:6878/ace/getstream?id=64ab00b36784cea281b079eb984d663b6c5c1a71&.mp4
 #EXTINF:-1,СТС Love
 http://127.0.0.1:6878/ace/getstream?id=e28afcb5566ebd98ef5d280308606b890823a467&.mp4
 #EXTINF:-1,Севастополь 24
@@ -508,14 +462,10 @@ http://127.0.0.1:6878/ace/getstream?id=13015b9cf65a95dabe5e115a908a2d0ec43f10bb&
 http://127.0.0.1:6878/ace/getstream?id=ce1dcd1e24edc8d2a0b26f86f37b87f3b094d96c&.mp4
 #EXTINF:-1,ТВЦ +6
 http://127.0.0.1:6878/ace/getstream?id=5acdf0a0159581252eee546301551cd7182adc00&.mp4
-#EXTINF:-1,ТИС ТВ (Одесса)
-http://127.0.0.1:6878/ace/getstream?id=a6db826e37972b67fe2cd04cd0dfe2cf907e76bb&.mp4
 #EXTINF:-1,ТКР (Рязань)
 http://127.0.0.1:6878/ace/getstream?id=35ff2102baf2c2f78b05a9d35b7091040a81d379&.mp4
 #EXTINF:-1,ТНТ4 (+7)
 http://127.0.0.1:6878/ace/getstream?id=174e1fb0e75359e6c4666b653f2e1bfe1a193a59&.mp4
-#EXTINF:-1,ТНТ4 HD
-http://127.0.0.1:6878/ace/getstream?id=bdae095c3d2611bc28192c8f507951f193c1c657&.mp4
 #EXTINF:-1,ТРК Губерния 33 (Владимир)
 http://127.0.0.1:6878/ace/getstream?id=3d473d061e7489446613079022ca0a04a54581a4&.mp4
 #EXTINF:-1,Тео ТВ
@@ -542,8 +492,6 @@ http://127.0.0.1:6878/ace/getstream?id=26801c5f60d21d95804de442c132c6ca6b79664f&
 http://127.0.0.1:6878/ace/getstream?id=b11bbc9e0db8754af925e82e62a34bca4aa7c50b&.mp4
 #EXTINF:-1,Ю (+4)
 http://127.0.0.1:6878/ace/getstream?id=10f1664c23386645b0dda1e2a899cc1fceac0807&.mp4
-#EXTINF:-1,ЯТБ (Херсон)
-http://127.0.0.1:6878/ace/getstream?id=31a59752a06c57829a325bbd30133bcf59907cfb&.mp4
 #EXTINF:-1,Россия 24 (Пенза)
 http://127.0.0.1:6878/ace/getstream?id=714a65cd7610691ffbcb697f4bd260efb0cfa1e2&.mp4
 #EXTINF:-1,Россия 24 (Чита)
@@ -576,18 +524,12 @@ http://127.0.0.1:6878/ace/getstream?id=dffb1cad8b60de5e190494059b5f1cfc714120e9&
 http://127.0.0.1:6878/ace/getstream?id=81ab8c107e94322362381ae6142ce34c1f648549&.mp4
 #EXTINF:-1,Kuїв TV
 http://127.0.0.1:6878/ace/getstream?id=5fbe32c1ca3de5cd09b01ce97585586eb6e98ba2&.mp4
-#EXTINF:-1,Plus (Одесса)
-http://127.0.0.1:6878/ace/getstream?id=9ccba67a41498e718ae03353519711e7c938cf1d&.mp4
 #EXTINF:-1,Scotland - Обезьяны
 http://127.0.0.1:6878/ace/getstream?id=1884adae8a377f4169e344bbcab66464567aa2cb&.mp4
 #EXTINF:-1,Scotland - Панда
 http://127.0.0.1:6878/ace/getstream?id=028cec07e54a5a77c6d73adc511ab355322b104e&.mp4
 #EXTINF:-1,Shot TV (Короткометражное кино)
 http://127.0.0.1:6878/ace/getstream?id=c840abbc9becff41e98557a931642557d3a1b1fe&.mp4
-#EXTINF:-1,TBN HD Украина
-http://127.0.0.1:6878/ace/getstream?id=cbc3ddc8cf95b474aefd973f03b55d4aef0eac6d&.mp4
-#EXTINF:-1,UA:Крим
-http://127.0.0.1:6878/ace/getstream?id=974c726e8b01cf685e17042bf929a26d8913d24c&.mp4
 #EXTINF:-1,Univer TV (Казань)
 http://127.0.0.1:6878/ace/getstream?id=c9840185026aa18f02f5b2384ed7c94d201e2432&.mp4
 #EXTINF:-1,А1
@@ -734,8 +676,6 @@ http://127.0.0.1:6878/ace/getstream?id=e6435ce4818b09f4bf62ef2739574cc7c0b4fb64&
 http://127.0.0.1:6878/ace/getstream?id=0341921a8d87d57f1738cb33ed04d1cca52be76b&.mp4
 #EXTINF:-1,Демо - камера 4mp
 http://127.0.0.1:6878/ace/getstream?id=d9b61994888092493f8d9416f5e79cf74d529ad1&.mp4
-#EXTINF:-1,Думская ТВ (Одесса)
-http://127.0.0.1:6878/ace/getstream?id=d1f2357951a768ec248ce5d0fdb61d3c8ff42ad6&.mp4
 #EXTINF:-1,ЗОО ТВ
 http://127.0.0.1:6878/ace/getstream?id=90c5485288a528a663c5d41b118db968f467b06b&.mp4
 #EXTINF:-1,Загородный
@@ -1010,14 +950,10 @@ http://127.0.0.1:6878/ace/getstream?id=ae897d363d3fc2dcffb9c2d28fd867fdbe39d057&
 http://127.0.0.1:6878/ace/getstream?id=c6b274cdf33f41b4dd3a2ba56d482777c140faf7&.mp4
 #EXTINF:-1,Радио Говорит Москва RU (Веб-камера)
 http://127.0.0.1:6878/ace/getstream?id=76a304b4989946921ba197703a41c3f44ebb7d80&.mp4
-#EXTINF:-1,Радио Люкс FM UA (Веб-камера)
-http://127.0.0.1:6878/ace/getstream?id=4126248b2bb97dcf19ebff82c8be09834fefc49c&.mp4
 #EXTINF:-1,Радио Маяк (PlayList 24)
 http://127.0.0.1:6878/ace/getstream?id=712a9045ec92dc31bc93116fa89e8b04efa0e5f5&.mp4
 #EXTINF:-1,Радио Маяк RU (Веб-камера)
 http://127.0.0.1:6878/ace/getstream?id=3e5e66a00cbc35f084d90fde0eb7f451a5a31379&.mp4
-#EXTINF:-1,Радио Пятница [UA] (Веб-камера)
-http://127.0.0.1:6878/ace/getstream?id=82d512d70433d06631f9368b7c2ded8973e0fbfc&.mp4
 #EXTINF:-1,Рен ТВ International
 http://127.0.0.1:6878/ace/getstream?id=b128b3abb0b26fd814ead57e8dce1ba4f6dd64f7&.mp4
 #EXTINF:-1,Россия 1 (+1)
@@ -1048,8 +984,6 @@ http://127.0.0.1:6878/ace/getstream?id=61ae5e5f64afec086ecfd1e58b2a3dee871e23ac&
 http://127.0.0.1:6878/ace/getstream?id=2970e675e90578b75eb18ccfe9746076fa32d276&.mp4
 #EXTINF:-1,СК1 HD (Житомир)
 http://127.0.0.1:6878/ace/getstream?id=9b35dec6c500ebf5ca211122ffc39cfd3fcc79c9&.mp4
-#EXTINF:-1,СТВ Беларусь
-http://127.0.0.1:6878/ace/getstream?id=a8239e2206b5a2ad611252c4cf5b9bc1e978d285&.mp4
 #EXTINF:-1,СТС (+7)
 http://127.0.0.1:6878/ace/getstream?id=60ee650a8f7d0d9932f886e20ce0ec8be05ec125&.mp4
 #EXTINF:-1,СТС Love (+2)
@@ -1210,8 +1144,6 @@ http://127.0.0.1:6878/ace/getstream?id=387963c2d1e4a1c0e3f458f7ecd7d35bece1ad08&
 http://127.0.0.1:6878/ace/getstream?id=e9cb2c0dd59e5343916ef80ea5ec45b18862bb7d&.mp4
 #EXTINF:-1,Южная Волна ТВ
 http://127.0.0.1:6878/ace/getstream?id=12db514cc6ed5e84b2e9ac220660f72404fa42e4&.mp4
-#EXTINF:-1,Южная Волна ТВ (Одесса)
-http://127.0.0.1:6878/ace/getstream?id=a446ceb493f5a5d516f0959bde0d90b76f83eceb&.mp4
 #EXTINF:-1,ул.Кунавина - ул.Кирова
 http://127.0.0.1:6878/ace/getstream?id=1a5fb4f101226be3c0920d941c4bf323cbe26032&.mp4
 #EXTINF:-1,ул.Суворова - ул.Шестакова
@@ -1270,12 +1202,8 @@ http://127.0.0.1:6878/ace/getstream?id=f10248df3600fc42f29c5ffde35611b9b28ed69e&
 http://127.0.0.1:6878/ace/getstream?id=5a2443f16dc3c6ecd13cbc0c88ca6b2717869a20&.mp4
 #EXTINF:-1,Чехия - Вокзал Праги [HD]
 http://127.0.0.1:6878/ace/getstream?id=c7710e3198765ee7257074685dd1c9b0ded8522a&.mp4
-#EXTINF:-1,ЯТБ Херсон
-http://127.0.0.1:6878/ace/getstream?id=33780c1d949eb4b2e9b53a8b860a49818cf7af3d&.mp4
 #EXTINF:-1,2+2 (Резерв2)
 http://127.0.0.1:6878/ace/getstream?id=acf338e361232d2422a93cf66368961e4f77e954&.mp4
-#EXTINF:-1,UA Одесса
-http://127.0.0.1:6878/ace/getstream?id=46641227a705c6b7ae2d7fb2164a0c695d5a9fbf&.mp4
 #EXTINF:-1,Вместе РФ HD
 http://127.0.0.1:6878/ace/getstream?id=2a7b29bc1e29ac57ad6d5308f028e3ab66e993c9&.mp4
 #EXTINF:-1,Дорожное
@@ -1322,8 +1250,6 @@ http://127.0.0.1:6878/ace/getstream?id=393a02471bcde9302caad4bcf676963799899170&
 http://127.0.0.1:6878/ace/getstream?id=a53b68ceb81f59e62d0ab926986b74ed97463977&.mp4
 #EXTINF:-1,Хабар 24 (KZ)
 http://127.0.0.1:6878/ace/getstream?id=a928bc6c210f5c812a3cc1487ee98d361a82a1c6&.mp4
-#EXTINF:-1,7 Канал HD (Одесса)
-http://127.0.0.1:6878/ace/getstream?id=deb5dd9d2877a60fdb9a48581d01c12ebbcd49fe&.mp4
 #EXTINF:-1,АРМЕНИЯ ТВ5
 http://127.0.0.1:6878/ace/getstream?id=981ead7aa2517c70a9957880fee16a9a0f599f02&.mp4
 #EXTINF:-1,Междуреченск 1 [HD]
@@ -1414,16 +1340,10 @@ http://127.0.0.1:6878/ace/getstream?id=9a831a3e146a58dbf80d774f622cb9a1611d99bc&
 http://127.0.0.1:6878/ace/getstream?id=1cc72f7a5f1286bd72d23ff45a6426cdb4236f0b&.mp4
 #EXTINF:-1,Матч!
 http://127.0.0.1:6878/ace/getstream?id=bd6bd5838af67ada2ce5b9c0a50200a69f8613d0&.mp4
-#EXTINF:-1,НТВ HD
-http://127.0.0.1:6878/ace/getstream?id=2a4a7ffebbd4fd04650e505ce30501bb57bcede4&.mp4
 #EXTINF:-1,Первый канал (РФ)
 http://127.0.0.1:6878/ace/getstream?id=008fd13985cb58fa7ad8de1011ee8b6dc6b1cfc7&.mp4
 #EXTINF:-1,Пятница (+4)
 http://127.0.0.1:6878/ace/getstream?id=555f840f4a2997891aff8f77b0b8814c4c560947&.mp4
-#EXTINF:-1,112 Украина HD
-http://127.0.0.1:6878/ace/getstream?id=7e30e83532bf73c7b814ea49668897b59d81dade&.mp4
-#EXTINF:-1,Первый канал HD
-http://127.0.0.1:6878/ace/getstream?id=747de96a062d3bfc8353052f7f35fe49c6a38030&.mp4
 #EXTINF:-1,НТВ Хит
 http://127.0.0.1:6878/ace/getstream?id=ddc4fbea90265e36e7650516ddef1e777e51946f&.mp4
 #EXTINF:-1,Про Любовь HD
@@ -1438,8 +1358,6 @@ http://127.0.0.1:6878/ace/getstream?id=c00ae4167bb89d2a87070d5796832e26fbcf62f8&
 http://127.0.0.1:6878/ace/getstream?id=dcd1dde175876b91714f091975319cbe92a84942&.mp4
 #EXTINF:-1,Диалоги о рыбалке
 http://127.0.0.1:6878/ace/getstream?id=1a6b7cc6d04a2370edf3a989f091f5694c42c24d&.mp4
-#EXTINF:-1,112 Україна HD
-http://127.0.0.1:6878/ace/getstream?id=d9f631c996a1fd5182cc19ac8dbb1aa74631850b&.mp4
 #EXTINF:-1,Домашний (+2)
 http://127.0.0.1:6878/ace/getstream?id=5eef7009fec1b798506cff2636d59e9825037e73&.mp4
 #EXTINF:-1,Домашний (+7)
@@ -1450,16 +1368,12 @@ http://127.0.0.1:6878/ace/getstream?id=748574770034b06049b79da70b98cddbf30f0611&
 http://127.0.0.1:6878/ace/getstream?id=34bef168f8c8b6247e6ad16733fd8ac2c3054e60&.mp4
 #EXTINF:-1,Мульт
 http://127.0.0.1:6878/ace/getstream?id=07f055f6eb2213383c0458a53555dbd560e2d6fd&.mp4
-#EXTINF:-1,Футбол 1 HD [UA] [HQ]
-http://127.0.0.1:6878/ace/getstream?id=28a45b558b077c6a7eae22acd2053d6ed69ccb00&.mp4
 #EXTINF:-1,11 канал Пенза
 http://127.0.0.1:6878/ace/getstream?id=b2d2f2de8b26261a911135037eb031a9dd3227ba&.mp4
 #EXTINF:-1,Матч! Планета
 http://127.0.0.1:6878/ace/getstream?id=df6c644d2e887a7b8febca3b22104bdf24b0a03a&.mp4
 #EXTINF:-1,1TV HD (Грузия)
 http://127.0.0.1:6878/ace/getstream?id=dc59a89ca06e2965b7894fe716266fa249c8d1a1&.mp4
-#EXTINF:-1,Футбол 2 Украина
-http://127.0.0.1:6878/ace/getstream?id=6e569e23266edbbf10986013a1f0bd3ff5f6a6d3&.mp4
 #EXTINF:-1,Аэропорт Дюссельдорфа 3 [HD]
 http://127.0.0.1:6878/ace/getstream?id=be59019954ed1962f87982eba8f7abf9a3c993fd&.mp4
 #EXTINF:-1,Аэропорт Дюссельдорфа 1 [R]
@@ -1478,8 +1392,6 @@ http://127.0.0.1:6878/ace/getstream?id=64dd9f30253a2ebf17e3e2fa60a124611b0e4c6d&
 http://127.0.0.1:6878/ace/getstream?id=566c496aca4dcabd55d277bbde150f43c06f712c&.mp4
 #EXTINF:-1,8 Канал Красноярский край
 http://127.0.0.1:6878/ace/getstream?id=97bb9696bb627e617e78a1dbedeb2b3a716a4b18&.mp4
-#EXTINF:-1,Радио 10 [UA] (Веб-камера)
-http://127.0.0.1:6878/ace/getstream?id=d04bc9396542cbed1272849d938e700e8685d593&.mp4
 #EXTINF:-1,Астрахань.Ru TV
 http://127.0.0.1:6878/ace/getstream?id=6842eaf5b95dc1d1dace7e176a1589980dca4da9&.mp4
 #EXTINF:-1,Шансон
@@ -1492,12 +1404,8 @@ http://127.0.0.1:6878/ace/getstream?id=0c6ee07d19205bb827f0333898c40bc90d78b236&
 http://127.0.0.1:6878/ace/getstream?id=254ea15bc6b1edb3aa34ece8cc23038e2ee13746&.mp4
 #EXTINF:-1,Пятница
 http://127.0.0.1:6878/ace/getstream?id=393f055491c8e39c2039339df54e9abd28f72cdf&.mp4
-#EXTINF:-1,СТС HD
-http://127.0.0.1:6878/ace/getstream?id=429589fd6f42d5c240a5d8a620a896a4e92f3299&.mp4
 #EXTINF:-1,ТНТ (СНГ)
 http://127.0.0.1:6878/ace/getstream?id=ab3f858f5f365ada672c510df039bd902e2ba47b&.mp4
-#EXTINF:-1,Беларусь 5 HD
-http://127.0.0.1:6878/ace/getstream?id=46a6dafbb5cfcf630a7a6748843b98b98d945286&.mp4
 #EXTINF:-1,НТМ
 http://127.0.0.1:6878/ace/getstream?id=0dc0de0d04e2eef03af0c68843aa1ecfd1a97b5d&.mp4
 #EXTINF:-1,Жара TV HD
@@ -1550,10 +1458,162 @@ http://127.0.0.1:6878/ace/getstream?id=bdd962a4524415ae43bf1860ebbcd4cbb763494a&
 http://127.0.0.1:6878/ace/getstream?id=68761fe2326f50c074d8fff7d25da804f35dd13a&.mp4
 #EXTINF:-1,Сочи - Камера 352
 http://127.0.0.1:6878/ace/getstream?id=39324820da8fb10661d91d86f618471a64cc1822&.mp4
-#EXTINF:-1,100% News
-http://127.0.0.1:6878/ace/getstream?id=930f1e16b09523a263f57a3526f9c20481c36e18&.mp4
 #EXTINF:-1,Euronews (Russia)
 http://127.0.0.1:6878/ace/getstream?id=17ef9e733d2f89d17c841b2ceea8fbc80e5f49b6&.mp4
+#EXTINF:-1,RU: NASTOYASHCHEYE VREMYA (1+)
+http://127.0.0.1:6878/ace/getstream?id=30c6ed08acf3779202ee57a6bc9eea8a7bb485bb&.mp4
+#EXTINF:-1,IZ.RU
+http://127.0.0.1:6878/ace/getstream?id=47f997e9b23208f1001259204b65f383df467d0e&.mp4
+#EXTINF:-1,TV Ruzinov [FHD]
+http://127.0.0.1:6878/ace/getstream?id=a1658ea67a0095e6add0577c75bc585b37b7c98f&.mp4
+#EXTINF:-1,RUV
+http://127.0.0.1:6878/ace/getstream?id=616cf730224145b7becd88e1a378ef2e414f73b7&.mp4
+#EXTINF:-1,3ABN Russia
+http://127.0.0.1:6878/ace/getstream?id=4d9249e9d11353e6efa53341e760fad33c3c8a72&.mp4
+#EXTINF:-1,TV7 (RU)
+http://127.0.0.1:6878/ace/getstream?id=87e8b8382277a31c912d6b87a07adb8566e4d668&.mp4
+#EXTINF:-1,RU: SPORT HD
+http://127.0.0.1:6878/ace/getstream?id=db344f5e13e22931d3d1a4f0d982006b0e8dfc41&.mp4
+#EXTINF:-1,Russia HD
+http://127.0.0.1:6878/ace/getstream?id=1f3c6a1c5dff3c17042dfbed833e73c980aa1baf&.mp4
+#EXTINF:-1,pimpletv.ru
+http://127.0.0.1:6878/ace/getstream?id=ceaa2553d401c294166b8e498f5aaa1ef1aee8e4&.mp4
+#EXTINF:-1,RU: UNIVER TV
+http://127.0.0.1:6878/ace/getstream?id=6aa62568d7a02d81aa6374464392a362361410ee&.mp4
+#EXTINF:-1,Russia 24 (Opt-2)
+http://127.0.0.1:6878/ace/getstream?id=162009ce13f88044c59d5949117f78507f9c2d2c&.mp4
+#EXTINF:-1,Russian Extreme HD
+http://127.0.0.1:6878/ace/getstream?id=9695320589f7bad8833d53c6114dbc755e2694c8&.mp4
+#EXTINF:-1,Universmotri.ru
+http://127.0.0.1:6878/ace/getstream?id=221d6bdf5b78b75868e74bdad0bf6939035659a4&.mp4
+#EXTINF:-1,Russia Today Doc (RU)
+http://127.0.0.1:6878/ace/getstream?id=356a425485fa49e07dddd4218d1ebcfb86ecb871&.mp4
+#EXTINF:-1,Russian Travel Guide
+http://127.0.0.1:6878/ace/getstream?id=b8c3873b984287145e978826322d6bc78796ac5a&.mp4
+#EXTINF:-1,Russian Extreme Ultra
+http://127.0.0.1:6878/ace/getstream?id=294a30c8099f94830df415f4f147a81be8a7fae3&.mp4
+#EXTINF:-1,Russian Extreme HD (-10)
+http://127.0.0.1:6878/ace/getstream?id=e5f99c6a562cddb27c9e6e96c1f295f7f1711d05&.mp4
+#EXTINF:-1,SONG TV HD Russia
+http://127.0.0.1:6878/ace/getstream?id=140d3bf54c12b1e8293a6a2132599b37660674b6&.mp4
+#EXTINF:-1,VIVA RUSSIA
+http://127.0.0.1:6878/ace/getstream?id=00d116633bf31d18a4251516f5f43f05180520df&.mp4
+#EXTINF:-1,RU: SPORT
+http://127.0.0.1:6878/ace/getstream?id=864e0d3ddda5b011da6d26f3bb7295266344f865&.mp4
+#EXTINF:-1,112 Україна
+http://127.0.0.1:6878/ace/getstream?id=071f39ada9e807fb0ff25b2a92243116c0716b92&.mp4
+#EXTINF:-1,Olvia (Одесса)
+http://127.0.0.1:6878/ace/getstream?id=ef1776c92c3b07c6a6f0aedfc839addbf69b33ca&.mp4
+#EXTINF:-1,RENOME (Одесса)
+http://127.0.0.1:6878/ace/getstream?id=92d1caed038ddb6637021e02cec07f3c9ac51726&.mp4
+#EXTINF:-1,UA TV
+http://127.0.0.1:6878/ace/getstream?id=14d1a9ad17cfe6f634f5421665f45fd9dd5cf847&.mp4
+#EXTINF:-1,Горизонт ТВ UA
+http://127.0.0.1:6878/ace/getstream?id=7936de3d58e26cc769e535bb1212a9df26d21e52&.mp4
+#EXTINF:-1,Здоровье (Одесса)
+http://127.0.0.1:6878/ace/getstream?id=f28119e9966020954f474ac14b3e5966e7fa2472&.mp4
+#EXTINF:-1,Первый Городской (Одесса)
+http://127.0.0.1:6878/ace/getstream?id=b506d6f1d5c94cd65ec5ef55cc920b158e715ae2&.mp4
+#EXTINF:-1,Правда ТУТ HD (Киев)
+http://127.0.0.1:6878/ace/getstream?id=6364e7af25db63598ca6680abea38b4156651453&.mp4
+#EXTINF:-1,ТРК Репортер (Одесса)
+http://127.0.0.1:6878/ace/getstream?id=0f174ff0e6ab9f82307e97285fc79fa199572257&.mp4
+#EXTINF:-1,А1 (Одесса)
+http://127.0.0.1:6878/ace/getstream?id=09490dcc3e0ff2070ddeb0d1246a67eefd293562&.mp4
+#EXTINF:-1,Культура UA
+http://127.0.0.1:6878/ace/getstream?id=914c9aee5c96d519e241dab72940ee980ce192f0&.mp4
+#EXTINF:-1,UA Крым
+http://127.0.0.1:6878/ace/getstream?id=679ce50bab92a38fc59fa76e7674e9162cca55a7&.mp4
+#EXTINF:-1,Киев TV
+http://127.0.0.1:6878/ace/getstream?id=f9afd8d9f6ab776fa56887565b4fb71707e1bb2b&.mp4
+#EXTINF:-1,TIS ODESSA | SD (UA)
+http://127.0.0.1:6878/ace/getstream?id=17cc88d052988cd6a22176b2c7e78ac756ca49d9&.mp4
+#EXTINF:-1,ТIС (Одесса)
+http://127.0.0.1:6878/ace/getstream?id=bd70e7d18a0257642a9e01a458da6c68dbb0fd4e&.mp4
+#EXTINF:-1,Думская TV HD (Одесса)
+http://127.0.0.1:6878/ace/getstream?id=a9309824d7de5e7092dfb2b36a2366e449778556&.mp4
+#EXTINF:-1,Третий Цифровой (Одесса)
+http://127.0.0.1:6878/ace/getstream?id=b9cfddcba4a514944d4443e5c383ea287e4d429f&.mp4
+#EXTINF:-1,UA:КРИМ
+http://127.0.0.1:6878/ace/getstream?id=8899492bad991a14a1ccf9627d6b74d17f65b2db&.mp4
+#EXTINF:-1,UA Культура
+http://127.0.0.1:6878/ace/getstream?id=052810ee735d8963926cafc4d18b68ad9bc3386c&.mp4
+#EXTINF:-1,Киев
+http://127.0.0.1:6878/ace/getstream?id=7086474b157a8560b55a5368ddfacd0e3fea7e25&.mp4
+#EXTINF:-1,Третий Цифровой Одесса
+http://127.0.0.1:6878/ace/getstream?id=a46147f0b7e542a16336bd6778baafad865fca49&.mp4
+#EXTINF:-1,LEKARIS.TV HD Украина
+http://127.0.0.1:6878/ace/getstream?id=a01f6ff50a320840bc7b6c6bb12b727c539f4f35&.mp4
+#EXTINF:-1,HD Fashion UA
+http://127.0.0.1:6878/ace/getstream?id=1e62e82d4a9874fae9b07f3cfeaf32c2baf95364&.mp4
+#EXTINF:-1,Первый Городской (Кривой Рог)
+http://127.0.0.1:6878/ace/getstream?id=1fb1091d3ee07148b50d3dbdd3c667cf783df103&.mp4
+#EXTINF:-1,Репортер (Одесса)
+http://127.0.0.1:6878/ace/getstream?id=0b7d1f98b8f4670a3cd329945dd30dcff9874c31&.mp4
+#EXTINF:-1,112 UA
+http://127.0.0.1:6878/ace/getstream?id=57ed12a4828c8e5f8190eb14c9b839d775315220&.mp4
+#EXTINF:-1,TBN Украина
+http://127.0.0.1:6878/ace/getstream?id=3a196a107428ba00e5bceeb9e923a6c9a5c677a6&.mp4
+#EXTINF:-1,ВТВ Плюс (Херсон)
+http://127.0.0.1:6878/ace/getstream?id=fc26432c5b663cb20cea58f08266461b5344c25a&.mp4
+#EXTINF:-1,ТИС ТВ (Одесса)
+http://127.0.0.1:6878/ace/getstream?id=a6db826e37972b67fe2cd04cd0dfe2cf907e76bb&.mp4
+#EXTINF:-1,ЯТБ (Херсон)
+http://127.0.0.1:6878/ace/getstream?id=31a59752a06c57829a325bbd30133bcf59907cfb&.mp4
+#EXTINF:-1,Plus (Одесса)
+http://127.0.0.1:6878/ace/getstream?id=9ccba67a41498e718ae03353519711e7c938cf1d&.mp4
+#EXTINF:-1,TBN HD Украина
+http://127.0.0.1:6878/ace/getstream?id=cbc3ddc8cf95b474aefd973f03b55d4aef0eac6d&.mp4
+#EXTINF:-1,UA:Крим
+http://127.0.0.1:6878/ace/getstream?id=974c726e8b01cf685e17042bf929a26d8913d24c&.mp4
+#EXTINF:-1,Думская ТВ (Одесса)
+http://127.0.0.1:6878/ace/getstream?id=d1f2357951a768ec248ce5d0fdb61d3c8ff42ad6&.mp4
+#EXTINF:-1,Радио Люкс FM UA (Веб-камера)
+http://127.0.0.1:6878/ace/getstream?id=4126248b2bb97dcf19ebff82c8be09834fefc49c&.mp4
+#EXTINF:-1,Радио Пятница [UA] (Веб-камера)
+http://127.0.0.1:6878/ace/getstream?id=82d512d70433d06631f9368b7c2ded8973e0fbfc&.mp4
+#EXTINF:-1,Южная Волна ТВ (Одесса)
+http://127.0.0.1:6878/ace/getstream?id=a446ceb493f5a5d516f0959bde0d90b76f83eceb&.mp4
+#EXTINF:-1,ЯТБ Херсон
+http://127.0.0.1:6878/ace/getstream?id=33780c1d949eb4b2e9b53a8b860a49818cf7af3d&.mp4
+#EXTINF:-1,UA Одесса
+http://127.0.0.1:6878/ace/getstream?id=46641227a705c6b7ae2d7fb2164a0c695d5a9fbf&.mp4
+#EXTINF:-1,7 Канал HD (Одесса)
+http://127.0.0.1:6878/ace/getstream?id=deb5dd9d2877a60fdb9a48581d01c12ebbcd49fe&.mp4
+#EXTINF:-1,112 Украина HD
+http://127.0.0.1:6878/ace/getstream?id=7e30e83532bf73c7b814ea49668897b59d81dade&.mp4
+#EXTINF:-1,AMC UA
+http://127.0.0.1:6878/ace/getstream?id=c2c573fa4aed8d457d9ae0d3077956b1843e5b6d&.mp4
+#EXTINF:-1,112 Україна HD
+http://127.0.0.1:6878/ace/getstream?id=d9f631c996a1fd5182cc19ac8dbb1aa74631850b&.mp4
+#EXTINF:-1,Футбол 1 HD [UA] [HQ]
+http://127.0.0.1:6878/ace/getstream?id=28a45b558b077c6a7eae22acd2053d6ed69ccb00&.mp4
+#EXTINF:-1,Футбол 2 Украина
+http://127.0.0.1:6878/ace/getstream?id=6e569e23266edbbf10986013a1f0bd3ff5f6a6d3&.mp4
+#EXTINF:-1,UA HD
+http://127.0.0.1:6878/ace/getstream?id=a78457950b7bd2bd6c4465ae75475d304609b814&.mp4
+#EXTINF:-1,ARHAT TV | SD (UA)
+http://127.0.0.1:6878/ace/getstream?id=740b5620989d847bea3d395fa431326e9cafa32c&.mp4
+#EXTINF:-1,Радио 10 [UA] (Веб-камера)
+http://127.0.0.1:6878/ace/getstream?id=d04bc9396542cbed1272849d938e700e8685d593&.mp4
+#EXTINF:-1,HDFashion-Lifestyle (UA)
+http://127.0.0.1:6878/ace/getstream?id=476100a0898f37ba45dc6dad308c0a79bd9f2219&.mp4
+#EXTINF:-1,HD Fashion & Lifestyle UA
+http://127.0.0.1:6878/ace/getstream?id=388746a8ef1e4d5b17e53334c859930a9734aead&.mp4
+#EXTINF:-1,СТВ (Беларусь)
+http://127.0.0.1:6878/ace/getstream?id=b8b4cc9e817467ef9aac6883386303a3ec283d9b&.mp4
+#EXTINF:-1,Беларусь 24
+http://127.0.0.1:6878/ace/getstream?id=d186f0cc43415b5512f25b18e068970ff767e05d&.mp4
+#EXTINF:-1,Беларусь 5
+http://127.0.0.1:6878/ace/getstream?id=baf1f4bf62daf288e3717509ca249b8b66c06001&.mp4
+#EXTINF:-1,Belarus 5 HD (Telegram: @MyAceTV)
+http://127.0.0.1:6878/ace/getstream?id=a7d47625566aac9cbd2937c0a919f65b7020c4f5&.mp4
+#EXTINF:-1,СТВ Беларусь
+http://127.0.0.1:6878/ace/getstream?id=a8239e2206b5a2ad611252c4cf5b9bc1e978d285&.mp4
+#EXTINF:-1,Беларусь 5 HD
+http://127.0.0.1:6878/ace/getstream?id=46a6dafbb5cfcf630a7a6748843b98b98d945286&.mp4
+#EXTINF:-1,100% News
+http://127.0.0.1:6878/ace/getstream?id=930f1e16b09523a263f57a3526f9c20481c36e18&.mp4
 #EXTINF:-1,TVR 1 HD
 http://127.0.0.1:6878/ace/getstream?id=03da4c4a70de22227644878e17366c3592d78162&.mp4
 #EXTINF:-1,RAI 1
@@ -1704,8 +1764,6 @@ http://127.0.0.1:6878/ace/getstream?id=529d465da4a79c9b4a91818f8a85eb886a39211c&
 http://127.0.0.1:6878/ace/getstream?id=50210315ad978cba7c4505918379d963d59b8e88&.mp4
 #EXTINF:-1,RTL Hrvatska
 http://127.0.0.1:6878/ace/getstream?id=464451889bdb31dc05bb3df16057b1058dabc743&.mp4
-#EXTINF:-1,RU: NASTOYASHCHEYE VREMYA (1+)
-http://127.0.0.1:6878/ace/getstream?id=30c6ed08acf3779202ee57a6bc9eea8a7bb485bb&.mp4
 #EXTINF:-1,Radio Contact
 http://127.0.0.1:6878/ace/getstream?id=10be2865432cd8e24234f97956d3bb2eb766b7e6&.mp4
 #EXTINF:-1,Rai News 24
@@ -1740,8 +1798,6 @@ http://127.0.0.1:6878/ace/getstream?id=c6601bfc3f3d979927e7fdfbebc212f3cc171d1e&
 http://127.0.0.1:6878/ace/getstream?id=6ac5f8f34705e57d83bf1a63e8d86c24e644bade&.mp4
 #EXTINF:-1,Türkmenistan Sport
 http://127.0.0.1:6878/ace/getstream?id=fbcc3253e42eaa1a569f789624fcd67a6861dc3a&.mp4
-#EXTINF:-1,UA TV
-http://127.0.0.1:6878/ace/getstream?id=14d1a9ad17cfe6f634f5421665f45fd9dd5cf847&.mp4
 #EXTINF:-1,XXX: G TV
 http://127.0.0.1:6878/ace/getstream?id=7d52668b4e12a75c7ce346bb38f2c329dadadb82&.mp4
 #EXTINF:-1,Yaslyk HD
@@ -1812,8 +1868,6 @@ http://127.0.0.1:6878/ace/getstream?id=2ca64b42d7355b57ec1174ee2399ef1a9a2be3c7&
 http://127.0.0.1:6878/ace/getstream?id=67b62c065364d2a7d4299f2c1d9c20125cc83b34&.mp4
 #EXTINF:-1,AF: PBC TAPESH TV
 http://127.0.0.1:6878/ace/getstream?id=4a255d36542e5c864a48c9edeba2e147a431dbde&.mp4
-#EXTINF:-1,IZ.RU
-http://127.0.0.1:6878/ace/getstream?id=47f997e9b23208f1001259204b65f383df467d0e&.mp4
 #EXTINF:-1,Nea TV
 http://127.0.0.1:6878/ace/getstream?id=2f541987666526d104c65afb5f22ae1e7304620c&.mp4
 #EXTINF:-1,Nesi TV
@@ -2102,8 +2156,6 @@ http://127.0.0.1:6878/ace/getstream?id=6be644937aa9760f220f433166f1f6e5598e8885&
 http://127.0.0.1:6878/ace/getstream?id=a369e13ba19bdfb117edf0dbb20206d7ba777513&.mp4
 #EXTINF:-1,TV Plata (RD)
 http://127.0.0.1:6878/ace/getstream?id=71a951773735640e9d75af2ae8e387a89c7bbaeb&.mp4
-#EXTINF:-1,TV Ruzinov [FHD]
-http://127.0.0.1:6878/ace/getstream?id=a1658ea67a0095e6add0577c75bc585b37b7c98f&.mp4
 #EXTINF:-1,TV www.achoAPPS.comGE Int. (New!)
 http://127.0.0.1:6878/ace/getstream?id=2c6a31aee9366b51872474cd30fea78fa80564ee&.mp4
 #EXTINF:-1,TVG Infantil
@@ -2452,8 +2504,6 @@ http://127.0.0.1:6878/ace/getstream?id=122224ea130d2dfecd85ea4702285c008395b654&
 http://127.0.0.1:6878/ace/getstream?id=b73d2ec5d3b7573c9beabcb0b05c7191306dc2c7&.mp4
 #EXTINF:-1,TEN Canal 10
 http://127.0.0.1:6878/ace/getstream?id=bf99b58669e88ebe5d0b9316296ae39e987da637&.mp4
-#EXTINF:-1,TIS ODESSA | SD (UA)
-http://127.0.0.1:6878/ace/getstream?id=17cc88d052988cd6a22176b2c7e78ac756ca49d9&.mp4
 #EXTINF:-1,TMA (New!)
 http://127.0.0.1:6878/ace/getstream?id=9e0b12f190cb697ae8e95d4411dac92b80ba3b9c&.mp4
 #EXTINF:-1,TV 4 Nyheterna
@@ -2578,8 +2628,6 @@ http://127.0.0.1:6878/ace/getstream?id=3e89c6987ba428f634ff1962c617e7b9d235575b&
 http://127.0.0.1:6878/ace/getstream?id=4f967091f94f893256c8929c0cc53ba37c35f9a6&.mp4
 #EXTINF:-1,RTM plus
 http://127.0.0.1:6878/ace/getstream?id=7c486e66ade9200a0f2be591c51c4296ce8d848e&.mp4
-#EXTINF:-1,RUV
-http://127.0.0.1:6878/ace/getstream?id=616cf730224145b7becd88e1a378ef2e414f73b7&.mp4
 #EXTINF:-1,Radio 51
 http://127.0.0.1:6878/ace/getstream?id=4ccd1076da581fb13c73401fe2630b716c4962ea&.mp4
 #EXTINF:-1,Radio Weser TV
@@ -3302,8 +3350,6 @@ http://127.0.0.1:6878/ace/getstream?id=4c40705119790bf10afb479477a0022ecc5bed7d&
 http://127.0.0.1:6878/ace/getstream?id=8bd3ff80daea2131c54bd88823a2a85e5144831e&.mp4
 #EXTINF:-1,2M MONDE | SD (_)
 http://127.0.0.1:6878/ace/getstream?id=24e67f2e12e17f1aeeb0c1f85b8ceb7b4310dc9f&.mp4
-#EXTINF:-1,3ABN Russia
-http://127.0.0.1:6878/ace/getstream?id=4d9249e9d11353e6efa53341e760fad33c3c8a72&.mp4
 #EXTINF:-1,5AAB TV
 http://127.0.0.1:6878/ace/getstream?id=10710856a90e02e0f968de1d3e65f96ba512edd2&.mp4
 #EXTINF:-1,AL HOKAIR Group TV
@@ -3446,8 +3492,6 @@ http://127.0.0.1:6878/ace/getstream?id=8b1737d7b980834bb2d3b51ac5cddfcdc423b8bb&
 http://127.0.0.1:6878/ace/getstream?id=6fc00d35936497e0ed9c4e6382f1dfeae441759c&.mp4
 #EXTINF:-1,TV Verdes Campos (New!)
 http://127.0.0.1:6878/ace/getstream?id=61373919dce3496e7c34fbfd6d0cdc5205394ac7&.mp4
-#EXTINF:-1,TV7 (RU)
-http://127.0.0.1:6878/ace/getstream?id=87e8b8382277a31c912d6b87a07adb8566e4d668&.mp4
 #EXTINF:-1,TV78
 http://127.0.0.1:6878/ace/getstream?id=f6bb02c90a21903fb7c1d00f5f58fbc4470cc680&.mp4
 #EXTINF:-1,TVRI
@@ -3570,8 +3614,6 @@ http://127.0.0.1:6878/ace/getstream?id=5d10f14f92f2d77cbb34057c95e2e48482504acc&
 http://127.0.0.1:6878/ace/getstream?id=9db672521312eb15b2b1bebcaf5c7695a9e40731&.mp4
 #EXTINF:-1,Gia Lai
 http://127.0.0.1:6878/ace/getstream?id=fc1e7c1e70825e8cae1c92537497784bf123bcb9&.mp4
-#EXTINF:-1,HD Fashion UA
-http://127.0.0.1:6878/ace/getstream?id=1e62e82d4a9874fae9b07f3cfeaf32c2baf95364&.mp4
 #EXTINF:-1,HRT 4 [NO KODI]
 http://127.0.0.1:6878/ace/getstream?id=8fa3782d24aa78b4cca3d5c68c31c8e48af79761&.mp4
 #EXTINF:-1,India TV
@@ -3774,8 +3816,6 @@ http://127.0.0.1:6878/ace/getstream?id=df4b01731b3aff9a2181cf4a19bf0ea337a990dc&
 http://127.0.0.1:6878/ace/getstream?id=1d4e0723cedaf9711afb69595de823554be95d01&.mp4
 #EXTINF:-1,AmC
 http://127.0.0.1:6878/ace/getstream?id=0c211536ea36e61053999df481f0ef0f59f81769&.mp4
-#EXTINF:-1,Belarus 5 HD (Telegram: @MyAceTV)
-http://127.0.0.1:6878/ace/getstream?id=a7d47625566aac9cbd2937c0a919f65b7020c4f5&.mp4
 #EXTINF:-1,BT SPORT 1 HD
 http://127.0.0.1:6878/ace/getstream?id=9e4d410afb06ec1a9f8ad26cea20e799d3626acf&.mp4
 #EXTINF:-1,Sky Sports F1 - www.TvMoca.com S2
@@ -3794,12 +3834,6 @@ http://127.0.0.1:6878/ace/getstream?id=89bf18d8a0a0203e39b1838d640e87be5fc36deb&
 http://127.0.0.1:6878/ace/getstream?id=6fa8e761c7255e16e8e1f649116e27623ddd6779&.mp4
 #EXTINF:-1,Galaxy TV
 http://127.0.0.1:6878/ace/getstream?id=791eb9ed69aecfb55be597bbf1d68cef6d2dc41f&.mp4
-#EXTINF:-1,Porn Asian
-http://127.0.0.1:6878/ace/getstream?id=c1f7b22ac020813ae00a0eb5d66e2ec55642ac8a&.mp4
-#EXTINF:-1,Porn Blonde
-http://127.0.0.1:6878/ace/getstream?id=f2e7bca639bfe2bba23f0c0857aed4e3e342380d&.mp4
-#EXTINF:-1,Porn Cuckold
-http://127.0.0.1:6878/ace/getstream?id=6f32bb396feef40aa25959f3c3f28c810ca1fffd&.mp4
 #EXTINF:-1,Euroliga VISITA EN TELEGRAM DEPORTES ACESTREAM
 http://127.0.0.1:6878/ace/getstream?id=775e9324a7130020cb39b0072bf1933fd4af8bf3&.mp4
 #EXTINF:-1,ProGoldy
@@ -3808,22 +3842,6 @@ http://127.0.0.1:6878/ace/getstream?id=00efde498b8de5a07d823bc338868fc855d11d27&
 http://127.0.0.1:6878/ace/getstream?id=3c60f36f8f913be1b4edae0cbc356d6cf9a52936&.mp4
 #EXTINF:-1,Duck tv
 http://127.0.0.1:6878/ace/getstream?id=ed593c763a9a3f0df92214c0afeaf8d0d08f888a&.mp4
-#EXTINF:-1,Porn Big Tits
-http://127.0.0.1:6878/ace/getstream?id=6abf2393a887b7813d815ed78f3deea3058e5ea6&.mp4
-#EXTINF:-1,Porn Bigass
-http://127.0.0.1:6878/ace/getstream?id=0545e6bd0ec76193bf968095ce5f1608a4cf096d&.mp4
-#EXTINF:-1,Porn Blowjob
-http://127.0.0.1:6878/ace/getstream?id=0d8f0c462c4eef15f629afb6f21fc87344cd129e&.mp4
-#EXTINF:-1,Porn Brunette
-http://127.0.0.1:6878/ace/getstream?id=1124d4eb69675bf4ac9646fe64dc9c42b0e6aeff&.mp4
-#EXTINF:-1,Porn Compilation
-http://127.0.0.1:6878/ace/getstream?id=08704fdc1a0728a1dbbbeb909053899e9b6640a4&.mp4
-#EXTINF:-1,Porn Fetish
-http://127.0.0.1:6878/ace/getstream?id=bde96b93e2fdd69778d6d72ddaffae34cfa16dc0&.mp4
-#EXTINF:-1,Porn Latina
-http://127.0.0.1:6878/ace/getstream?id=9a4975fef230bd759b97d9148ce91cf215d0f870&.mp4
-#EXTINF:-1,Porn Teen
-http://127.0.0.1:6878/ace/getstream?id=fa6d60b6a1cfd26c4246cf5a94c603c0a3bd1c4f&.mp4
 #EXTINF:-1,TVG2 VISITA EN TELEGRAM DEPORTES ACESTREAM
 http://127.0.0.1:6878/ace/getstream?id=dfbeae99e6da47a8f10be96e28ae1ba600cd84bc&.mp4
 #EXTINF:-1,jr
@@ -3838,18 +3856,6 @@ http://127.0.0.1:6878/ace/getstream?id=a87a980c5837d8ffd79bf758430445cf4e94346c&
 http://127.0.0.1:6878/ace/getstream?id=7341749e7d9eccfd3e6a2fb29c574c445eae41b6&.mp4
 #EXTINF:-1,Look sport2
 http://127.0.0.1:6878/ace/getstream?id=b6d835b3633f90927b620eab0b04507298be8582&.mp4
-#EXTINF:-1,Porn Big Dick
-http://127.0.0.1:6878/ace/getstream?id=e64187bb3c2011594d301222c6fb7bdf357863bb&.mp4
-#EXTINF:-1,Porn Gangbang
-http://127.0.0.1:6878/ace/getstream?id=db73fce4ba0c112042a670ab469f800be8e3acbd&.mp4
-#EXTINF:-1,Porn Interracial
-http://127.0.0.1:6878/ace/getstream?id=97bcf720656b6030e8de5bfb43f59a51581cbcbb&.mp4
-#EXTINF:-1,Porn Rough
-http://127.0.0.1:6878/ace/getstream?id=30b291223104024120f068a9b008bf7f87a73448&.mp4
-#EXTINF:-1,Porn Russian
-http://127.0.0.1:6878/ace/getstream?id=57e0de53747e30b3693d1ee5d3f693197c288f7f&.mp4
-#EXTINF:-1,Porn Threesome
-http://127.0.0.1:6878/ace/getstream?id=5e27537f6c57fd40e03dab95f985bb728fe45635&.mp4
 #EXTINF:-1,Setanta Sports Ukraine HD (Telegram: @MyAceTV)
 http://127.0.0.1:6878/ace/getstream?id=c6deb33b579ad88e367854e21c8e4aa4597cbc44&.mp4
 #EXTINF:-1,Sky Sport IT
@@ -3862,12 +3868,6 @@ http://127.0.0.1:6878/ace/getstream?id=e4c69ecfc9d99ede1ec21209ad4921bd77db1634&
 http://127.0.0.1:6878/ace/getstream?id=f75a58b4621f49973969c7fbaa2ac772d1841fd4&.mp4
 #EXTINF:-1,KINO 24
 http://127.0.0.1:6878/ace/getstream?id=a1065b7ae74d68c60956e122d6504d6e8afe1b50&.mp4
-#EXTINF:-1,Porn Lesbian
-http://127.0.0.1:6878/ace/getstream?id=a75fd1aa0544fade1928ad15e8141a25d91725c8&.mp4
-#EXTINF:-1,Porn Milf
-http://127.0.0.1:6878/ace/getstream?id=46bd80ebb38c64592c1e915389910f23be1c8546&.mp4
-#EXTINF:-1,Porn POV
-http://127.0.0.1:6878/ace/getstream?id=723320a5d3da3facc3868373a408b3480601f4a7&.mp4
 #EXTINF:-1,Red Bull TV HD
 http://127.0.0.1:6878/ace/getstream?id=6df0f1a8eef90286f3911390eae6f12c16b3d1e4&.mp4
 #EXTINF:-1,antena 1
@@ -3876,10 +3876,6 @@ http://127.0.0.1:6878/ace/getstream?id=3b8ad85735a8ecac7517711b1a3fe8c1c8ca84c2&
 http://127.0.0.1:6878/ace/getstream?id=1fdd97a65ed05d507bb335af0e67b536ed3f8813&.mp4
 #EXTINF:-1,AxnBlack
 http://127.0.0.1:6878/ace/getstream?id=f58ab93bfa9b4b9ac08df31bb16ed05860dc4227&.mp4
-#EXTINF:-1,Porn Webcam
-http://127.0.0.1:6878/ace/getstream?id=4c2ba0a8d67c805da994999b03517bcc067e6d09&.mp4
-#EXTINF:-1,Pornstar
-http://127.0.0.1:6878/ace/getstream?id=729e5b2ac39d17a7539903933644dc4cbaa55128&.mp4
 #EXTINF:-1,Ultra HD Cinema
 http://127.0.0.1:6878/ace/getstream?id=db9b17e67857b84586e8d546359e410fc1e5a7bb&.mp4
 #EXTINF:-1,1
@@ -3904,8 +3900,6 @@ http://127.0.0.1:6878/ace/getstream?id=f80d9f4614d41f5560a5c01fab5fcda38093d92e&
 http://127.0.0.1:6878/ace/getstream?id=27f02bc07441c3c283f4a974fd390cdbd292504f&.mp4
 #EXTINF:-1,Paramount Comedy
 http://127.0.0.1:6878/ace/getstream?id=aeb299fb60787f3145a70d51b39b5ab16b7c41ef&.mp4
-#EXTINF:-1,Porn Gay
-http://127.0.0.1:6878/ace/getstream?id=27cdb352a4660eff02a4771013951e84b7f96f32&.mp4
 #EXTINF:-1,SHANT IPSTEAM
 http://127.0.0.1:6878/ace/getstream?id=e933a128f85c1e6c01ee0b1bc587caf470b846ff&.mp4
 #EXTINF:-1,Sport TV2 HD
@@ -3964,8 +3958,6 @@ http://127.0.0.1:6878/ace/getstream?id=b1fed8980746bf1fabd157f6d6277c0f4e7a8cad&
 http://127.0.0.1:6878/ace/getstream?id=67e0b913e693e762daed260ce4c71cae154a5dc3&.mp4
 #EXTINF:-1,myMixTape
 http://127.0.0.1:6878/ace/getstream?id=75a29168dda063bd4a50b896326e225c7ff28c91&.mp4
-#EXTINF:-1,112 UA
-http://127.0.0.1:6878/ace/getstream?id=57ed12a4828c8e5f8190eb14c9b839d775315220&.mp4
 #EXTINF:-1,1HD
 http://127.0.0.1:6878/ace/getstream?id=5a0f03b239e0f5d72438a94820cebb1ca99232b5&.mp4
 #EXTINF:-1,1HD Music TV [FHD]
@@ -4038,8 +4030,6 @@ http://127.0.0.1:6878/ace/getstream?id=0aeb54268185769cb191df67d09916161ea77381&
 http://127.0.0.1:6878/ace/getstream?id=db1d2292641808b19e7d5b8b1dc1e1beefcabc5e&.mp4
 #EXTINF:-1,Qazsport HD
 http://127.0.0.1:6878/ace/getstream?id=0fceb3fc319161ed78b9a522d36934d982119850&.mp4
-#EXTINF:-1,RU: SPORT HD
-http://127.0.0.1:6878/ace/getstream?id=db344f5e13e22931d3d1a4f0d982006b0e8dfc41&.mp4
 #EXTINF:-1,Radio Italia TV
 http://127.0.0.1:6878/ace/getstream?id=1c50da83a4de8e13f7e76765950c9bb434f557e2&.mp4
 #EXTINF:-1,Radio TV Neuquen
@@ -4048,8 +4038,6 @@ http://127.0.0.1:6878/ace/getstream?id=f4b360177538e346e56942e955e6cbcb9a6e59e5&
 http://127.0.0.1:6878/ace/getstream?id=b8274ec6d4fc0e0d3998ef435a26c66395dc6d86&.mp4
 #EXTINF:-1,Rock TV
 http://127.0.0.1:6878/ace/getstream?id=40fad7185b5b550260d5417221a652ab7ccbfeef&.mp4
-#EXTINF:-1,Russia HD
-http://127.0.0.1:6878/ace/getstream?id=1f3c6a1c5dff3c17042dfbed833e73c980aa1baf&.mp4
 #EXTINF:-1,SPACE STATION LIVE 2 (http) | KODIPT Kitina/Magellan
 http://127.0.0.1:6878/ace/getstream?id=ad9aeb5a6efdbde1cd9f50a318f09452e91278f3&.mp4
 #EXTINF:-1,SPORTTV 2
@@ -4098,8 +4086,6 @@ http://127.0.0.1:6878/ace/getstream?id=342536f50a2948965aed12814edc268b962ad440&
 http://127.0.0.1:6878/ace/getstream?id=e7641c2858745eabcb27d6a857b14ef1ada7f478&.mp4
 #EXTINF:-1,mireasa
 http://127.0.0.1:6878/ace/getstream?id=88420ad8a1a89fd88f706fba82ba4d65ee90e2a9&.mp4
-#EXTINF:-1,pimpletv.ru
-http://127.0.0.1:6878/ace/getstream?id=ceaa2553d401c294166b8e498f5aaa1ef1aee8e4&.mp4
 #EXTINF:-1,tele cinco
 http://127.0.0.1:6878/ace/getstream?id=048e315b0a31872d79b57ce2ef1b1cf112828cca&.mp4
 #EXTINF:-1,totosmashingheadset.gif
@@ -4874,8 +4860,6 @@ http://127.0.0.1:6878/ace/getstream?id=dc230b64a3d9915eaa41969ad95f18b759939d0a&
 http://127.0.0.1:6878/ace/getstream?id=e15cab435dc336575dc00066959be16a27376fe5&.mp4
 #EXTINF:-1,RTN TV
 http://127.0.0.1:6878/ace/getstream?id=ab491bde714b5944b666c8ec82e0f8c337089f1c&.mp4
-#EXTINF:-1,RU: UNIVER TV
-http://127.0.0.1:6878/ace/getstream?id=6aa62568d7a02d81aa6374464392a362361410ee&.mp4
 #EXTINF:-1,Radio 51 TV
 http://127.0.0.1:6878/ace/getstream?id=d7671eb218aa9a7b4dbff3f11052c83902720d8a&.mp4
 #EXTINF:-1,Radio M-1 (LIT) WEB
@@ -4920,10 +4904,6 @@ http://127.0.0.1:6878/ace/getstream?id=221183bc92747c784fcc85ed992cc281f7c15d52&
 http://127.0.0.1:6878/ace/getstream?id=9fa471d463307dc13f4ada0b2534fd68b2647de8&.mp4
 #EXTINF:-1,Rudaw TV
 http://127.0.0.1:6878/ace/getstream?id=2125b4cb94eb03d5f1489747e18c35f9cfdc3790&.mp4
-#EXTINF:-1,Russia 24 (Opt-2)
-http://127.0.0.1:6878/ace/getstream?id=162009ce13f88044c59d5949117f78507f9c2d2c&.mp4
-#EXTINF:-1,Russian Extreme HD
-http://127.0.0.1:6878/ace/getstream?id=9695320589f7bad8833d53c6114dbc755e2694c8&.mp4
 #EXTINF:-1,SANTA CRUZ
 http://127.0.0.1:6878/ace/getstream?id=cf20d286b5996c684a08f678d157410401286c65&.mp4
 #EXTINF:-1,SANTHORA TV | SD (IN)
@@ -5196,8 +5176,6 @@ http://127.0.0.1:6878/ace/getstream?id=2f97aeb81ef0d298c7ab821bfbd6cf16fbcb671d&
 http://127.0.0.1:6878/ace/getstream?id=41954959c36ab6a8bd0c49019ebd0477dd7faa68&.mp4
 #EXTINF:-1,Univer HD (PlayList 24)
 http://127.0.0.1:6878/ace/getstream?id=63ad7b6e1b079c3840647aae91e5b502d5a2ccd2&.mp4
-#EXTINF:-1,Universmotri.ru
-http://127.0.0.1:6878/ace/getstream?id=221d6bdf5b78b75868e74bdad0bf6939035659a4&.mp4
 #EXTINF:-1,Ustronie Morskie plaża
 http://127.0.0.1:6878/ace/getstream?id=c72eaf32d46358ea18dfb19b3e389b2626700f99&.mp4
 #EXTINF:-1,V2BEATHD
@@ -5532,8 +5510,6 @@ http://127.0.0.1:6878/ace/getstream?id=5bc8168c81183d47a081e523d912ef3ffdb528c2&
 http://127.0.0.1:6878/ace/getstream?id=b3059a211a03f62a6c55fb23ebded79d2738ea23&.mp4
 #EXTINF:-1,Poland - Myslenice
 http://127.0.0.1:6878/ace/getstream?id=303aff2659fec83d41389a6128b7e9f484a21ec5&.mp4
-#EXTINF:-1,Russia Today Doc (RU)
-http://127.0.0.1:6878/ace/getstream?id=356a425485fa49e07dddd4218d1ebcfb86ecb871&.mp4
 #EXTINF:-1,SPORT | TVRI Sports
 http://127.0.0.1:6878/ace/getstream?id=cc7a0882a2df663f2e5589c24eb99b9321bfa450&.mp4
 #EXTINF:-1,Setanta Sport 1
@@ -5644,8 +5620,6 @@ http://127.0.0.1:6878/ace/getstream?id=130c8f843be0bb072665229fe92e401d4b32561e&
 http://127.0.0.1:6878/ace/getstream?id=3fc677886985d705c9ac6b10bb86449e0dabebdc&.mp4
 #EXTINF:-1,MASTER TV
 http://127.0.0.1:6878/ace/getstream?id=ea7e74fe8c6d8e70e2f63d675a022c0d2f3d6f4a&.mp4
-#EXTINF:-1,Russian Travel Guide
-http://127.0.0.1:6878/ace/getstream?id=b8c3873b984287145e978826322d6bc78796ac5a&.mp4
 #EXTINF:-1,Univer TV HD
 http://127.0.0.1:6878/ace/getstream?id=ef9fb24f9b16966326ecd1de6ddf49f5d79e1761&.mp4
 #EXTINF:-1,Fashion Midnight ¹ 🇺🇸
@@ -5666,8 +5640,6 @@ http://127.0.0.1:6878/ace/getstream?id=0057ef7e8d5f3389a892dcb2a914869d20e2f56e&
 http://127.0.0.1:6878/ace/getstream?id=65a470321fb4b5258ac133a7442b696240e22575&.mp4
 #EXTINF:-1,CANAL 26 HD
 http://127.0.0.1:6878/ace/getstream?id=00f3a12639341411d7661a64d198fb59d7f78ab8&.mp4
-#EXTINF:-1,Russian Extreme Ultra
-http://127.0.0.1:6878/ace/getstream?id=294a30c8099f94830df415f4f147a81be8a7fae3&.mp4
 #EXTINF:-1,TNT4 (+4)
 http://127.0.0.1:6878/ace/getstream?id=4fb89c001c8900fd23fca9325f07e8406b0b3478&.mp4
 #EXTINF:-1,test-754
@@ -5678,8 +5650,6 @@ http://127.0.0.1:6878/ace/getstream?id=2ff19aae689fc72cb520afcb09d85cd8049273aa&
 http://127.0.0.1:6878/ace/getstream?id=9e56773c2cad24fc84fa8ace158788f499acf666&.mp4
 #EXTINF:-1,ELGOLES-2
 http://127.0.0.1:6878/ace/getstream?id=0b8b340ff085c036136b96e16d904c2136076740&.mp4
-#EXTINF:-1,Russian Extreme HD (-10)
-http://127.0.0.1:6878/ace/getstream?id=e5f99c6a562cddb27c9e6e96c1f295f7f1711d05&.mp4
 #EXTINF:-1,ELGOLES-4
 http://127.0.0.1:6878/ace/getstream?id=5ae40d409371d822dd5b526313742af682815c72&.mp4
 #EXTINF:-1,ELGOLES-6
@@ -5716,8 +5686,6 @@ http://127.0.0.1:6878/ace/getstream?id=777795db3e9dce367ec2b2d4e22f842faf004dde&
 http://127.0.0.1:6878/ace/getstream?id=cfe62a99783ae68193fe03d537748e7a329c8265&.mp4
 #EXTINF:-1,EBSi
 http://127.0.0.1:6878/ace/getstream?id=eaf98cf9046a4182a48bb57a3fb280fb10d47e10&.mp4
-#EXTINF:-1,SONG TV HD Russia
-http://127.0.0.1:6878/ace/getstream?id=140d3bf54c12b1e8293a6a2132599b37660674b6&.mp4
 #EXTINF:-1,Bambarbia TV HD
 http://127.0.0.1:6878/ace/getstream?id=0adf365c6da9b2d7edb660fc64c2b8d82128cf57&.mp4
 #EXTINF:-1,QVC | SD (UK)
@@ -5844,8 +5812,6 @@ http://127.0.0.1:6878/ace/getstream?id=fa09f597a0f96c255bac2c2f482598546b85798f&
 http://127.0.0.1:6878/ace/getstream?id=55ccdbc5500cb6c23da7cbd9640002bda51006f7&.mp4
 #EXTINF:-1,Premiere HD 1
 http://127.0.0.1:6878/ace/getstream?id=d4f2552ed120ae2d84ce10136b79fbf9eafed755&.mp4
-#EXTINF:-1,AMC UA
-http://127.0.0.1:6878/ace/getstream?id=c2c573fa4aed8d457d9ae0d3077956b1843e5b6d&.mp4
 #EXTINF:-1,CINEMAX
 http://127.0.0.1:6878/ace/getstream?id=3d640aada83642e6a98744926396fcc706f35e74&.mp4
 #EXTINF:-1,FTV Midnight Secrets (UHD)
@@ -5866,8 +5832,6 @@ http://127.0.0.1:6878/ace/getstream?id=44a46377029622b2a16c6a3976e07789df29dd85&
 http://127.0.0.1:6878/ace/getstream?id=c223ddfc106be291dedf079f1f10e88a74a865d6&.mp4
 #EXTINF:-1,Setanta Ukraine HD
 http://127.0.0.1:6878/ace/getstream?id=67d5964ee05363b25023db31571bdaab99d4375e&.mp4
-#EXTINF:-1,VIVA RUSSIA
-http://127.0.0.1:6878/ace/getstream?id=00d116633bf31d18a4251516f5f43f05180520df&.mp4
 #EXTINF:-1,2x2
 http://127.0.0.1:6878/ace/getstream?id=5921c2f8f15409a20cb9099f36619761c009612f&.mp4
 #EXTINF:-1,2x2 HD
@@ -5886,8 +5850,6 @@ http://127.0.0.1:6878/ace/getstream?id=78e56408beeaee55aaccd21f35c12c7fe21618b1&
 http://127.0.0.1:6878/ace/getstream?id=071619ce144ba10c205143961a9c73fee2568c26&.mp4
 #EXTINF:-1,QUTV
 http://127.0.0.1:6878/ace/getstream?id=5844c8f3139c96166d2b118c853f15ebdd9967f6&.mp4
-#EXTINF:-1,RU: SPORT
-http://127.0.0.1:6878/ace/getstream?id=864e0d3ddda5b011da6d26f3bb7295266344f865&.mp4
 #EXTINF:-1,U!Premium
 http://127.0.0.1:6878/ace/getstream?id=0ba531842df04ca7a870a7faf96bf8e5a01a8cac&.mp4
 #EXTINF:-1,Ultra HD Cinema (4K UHD)
@@ -5964,8 +5926,6 @@ http://127.0.0.1:6878/ace/getstream?id=681627b41010fc65f78f8e3d5d3902ce497d17f9&
 http://127.0.0.1:6878/ace/getstream?id=37b66d2cfcce9338b9609890f07c2f8c1aa14222&.mp4
 #EXTINF:-1,Lyra
 http://127.0.0.1:6878/ace/getstream?id=6a9c329bc4ad8cd237138d6dc2d305b83cab4845&.mp4
-#EXTINF:-1,UA HD
-http://127.0.0.1:6878/ace/getstream?id=a78457950b7bd2bd6c4465ae75475d304609b814&.mp4
 #EXTINF:-1,Enter Music Television
 http://127.0.0.1:6878/ace/getstream?id=a582512c0c85151aca4aa349335de01fe16a4490&.mp4
 #EXTINF:-1,JBS JE | SD (US)
@@ -5990,8 +5950,6 @@ http://127.0.0.1:6878/ace/getstream?id=73ce7a2fcdc95b64fe961928a718173927a49669&
 http://127.0.0.1:6878/ace/getstream?id=a32a645b7f62d2c105bb87d6da1862a747663c7b&.mp4
 #EXTINF:-1,Jenny Live
 http://127.0.0.1:6878/ace/getstream?id=1bc49f46e82d328f35af30b8e9a469347b5f232d&.mp4
-#EXTINF:-1,ARHAT TV | SD (UA)
-http://127.0.0.1:6878/ace/getstream?id=740b5620989d847bea3d395fa431326e9cafa32c&.mp4
 #EXTINF:-1,Khyber News TV
 http://127.0.0.1:6878/ace/getstream?id=b280c2e076d8cb79b63a02bed0e5eb025481bff9&.mp4
 #EXTINF:-1,Portugal WEBCAM: MATADOURO
@@ -6002,8 +5960,6 @@ http://127.0.0.1:6878/ace/getstream?id=3a438453f95cea1c3d8c2d910fd36ef962fb784d&
 http://127.0.0.1:6878/ace/getstream?id=0edda2f917ea21d7696e7d1b0e99b204e1bcb59f&.mp4
 #EXTINF:-1,Imedi TV
 http://127.0.0.1:6878/ace/getstream?id=81e3bb090387f211b669ffe9b13d0d02c9b55e80&.mp4
-#EXTINF:-1,HDFashion-Lifestyle (UA)
-http://127.0.0.1:6878/ace/getstream?id=476100a0898f37ba45dc6dad308c0a79bd9f2219&.mp4
 #EXTINF:-1,MBC Bollywood
 http://127.0.0.1:6878/ace/getstream?id=4e1489cafe859bbaa19eb02a95cbf44e54624777&.mp4
 #EXTINF:-1,Metrópole News TV
@@ -6014,8 +5970,6 @@ http://127.0.0.1:6878/ace/getstream?id=1d8755b7fabb603a804afc406df17111932ca49f&
 http://127.0.0.1:6878/ace/getstream?id=e33e72ff8f50569b2e4ec9ee8261291b89d20742&.mp4
 #EXTINF:-1,Buzzr
 http://127.0.0.1:6878/ace/getstream?id=875d1f6764343b630e696361444459ddfd8f383a&.mp4
-#EXTINF:-1,HD Fashion & Lifestyle UA
-http://127.0.0.1:6878/ace/getstream?id=388746a8ef1e4d5b17e53334c859930a9734aead&.mp4
 #EXTINF:-1,FS1 Salzburg
 http://127.0.0.1:6878/ace/getstream?id=61ed2f6343a0f1b5b5673db91b038a12e41ce704&.mp4
 #EXTINF:-1,Kaif TV
@@ -6068,6 +6022,8 @@ http://127.0.0.1:6878/ace/getstream?id=c6c7426a2f6d9a3b2aad48c4d1905f351bf4b8b2&
 http://127.0.0.1:6878/ace/getstream?id=e81eca6e3ad57fa066ac1bee3de1d11b09449bce&.mp4
 #EXTINF:-1,101 Tele Antequera
 http://127.0.0.1:6878/ace/getstream?id=f619bca9e7cd0ad41aea3cd76f04e58129f9a2e6&.mp4
+#EXTINF:-1,MTV Live HD
+http://127.0.0.1:6878/ace/getstream?id=afc5704de6af47898521705984ec87cb4da9682d&.mp4
 #EXTINF:-1,Your Time (CZ)
 http://127.0.0.1:6878/ace/getstream?id=9bb18e84c8791a471642901fdc67f2c476b30dea&.mp4
 #EXTINF:-1,CBS46 (WGCL-TV)
@@ -6216,5 +6172,3 @@ http://127.0.0.1:6878/ace/getstream?id=e09327c2e85813831a6459179c5a1239372de437&
 http://127.0.0.1:6878/ace/getstream?id=73e3900ef35a1652ee0bb23979c50af62a23be0f&.mp4
 #EXTINF:-1,CTV Banten
 http://127.0.0.1:6878/ace/getstream?id=12f8d4514d253ffcce38a8f77d7180c118d0e48c&.mp4
-#EXTINF:-1 group-title="music" tvg-name="MTV_Live_HD" tvg-logo="https://karnei4.github.io/convert/MTV_Russia_HD.png",MTV Live HD
-http://127.0.0.1:6878/ace/getstream?id=afc5704de6af47898521705984ec87cb4da9682d&.mp4
