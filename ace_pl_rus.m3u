@@ -10,7 +10,7 @@ http://127.0.0.1:6878/ace/getstream?id=5a299b70fda1ec61050326aeab8a9b116e724bc5&
 http://127.0.0.1:6878/ace/getstream?id=4d9ee96e0fcea646038e2c9812ae809f757c92ef&.mp4
 #EXTINF:-1,Россия К
 http://127.0.0.1:6878/ace/getstream?id=b8d4e43252e3300131eb985bd32cd920bc6dc04d&.mp4
-#EXTINF:-1,Россия 24
+#EXTINF:-1group-title="Россия 24Г" tvg-name="Россия 24" tvg-logo="https://karnei4.github.io/convert/russia24.png",Россия 24
 http://127.0.0.1:6878/ace/getstream?id=85ed30a1c80488617ed6e72a1829742588bb111e&.mp4
 #EXTINF:-1,Известия
 http://127.0.0.1:6878/ace/getstream?id=dd2e2029436be5b306a244f0afac14458bf4a35c&.mp4
