@@ -1026,7 +1026,7 @@ http://92.46.127.146:8080/ntv-L3-TRANS/index.m3u8
 #EXTGRP:Российские
 http://46.174.83.66/NTV_Hit/mpegts
 #EXTINF:0,Дождь HD
-#EXTGRP:Российские
+#EXTGRP:Дождь
 http://103.194.169.171:8282/Dozhdj/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:0,ТНТ FHD
 #EXTGRP:Российские
@@ -1176,7 +1176,7 @@ http://rt-sib-omsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_1GORODSKOY/v
 #EXTGRP:Российские
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:0,Дождь
-#EXTGRP:Российские
+#EXTGRP:Дождь
 https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8
 #EXTINF:0,Россия 1
 #EXTGRP:Российские
@@ -1728,7 +1728,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/
 #EXTGRP:Релакс
 https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
 #EXTINF:0,Дождь FHD
-#EXTGRP:Релакс
+#EXTGRP:Дождь
 https://a.jsrdn.com/broadcast/76381deeda/+0000/c.m3u8
 #EXTINF:0,Камин HD
 #EXTGRP:Релакс
