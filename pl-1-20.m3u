@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1,Первый канал HD
 http://192.168.1.20:6878/ace/getstream?id=747de96a062d3bfc8353052f7f35fe49c6a38030&.mp4
 #EXTINF:-1,Первый канал
