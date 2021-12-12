@@ -1,0 +1,12 @@
+#EXTINF:-1,Первый канал HD
+http://192.168.0.20:6878/ace/getstream?id=747de96a062d3bfc8353052f7f35fe49c6a38030&.mp4
+#EXTINF:-1,Первый канал
+http://192.168.0.20:6878/ace/getstream?id=00ab9e1b7abfb1eb5c6cbafdaf485464af60f274&.mp4
+#EXTINF:-1,ТНТ HD
+http://192.168.0.20:6878/ace/getstream?id=5b4690778c4dc3fbfb6246af893296a217c54cf0&.mp4
+#EXTINF:-1,ТНТ4 HD
+http://192.168.0.20:6878/ace/getstream?id=bdae095c3d2611bc28192c8f507951f193c1c657&.mp4
+#EXTINF:-1,СТС HD
+http://192.168.0.20:6878/ace/getstream?id=429589fd6f42d5c240a5d8a620a896a4e92f3299&.mp4
+#EXTINF:-1,СТС
+http://192.168.0.20:6878/ace/getstream?id=af919a410f17609c4e0b0ecc9fcc16025288b791&.mp4
