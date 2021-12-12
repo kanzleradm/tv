@@ -1,19 +1,31 @@
 #EXTINF:-1,Первый канал HD
 http://127.0.0.1:6878/ace/getstream?id=747de96a062d3bfc8353052f7f35fe49c6a38030&.mp4
+#EXTINF:-1,Первый канал
+http://127.0.0.1:6878/ace/getstream?id=00ab9e1b7abfb1eb5c6cbafdaf485464af60f274&.mp4
+#EXTINF:-1,Первый канал (РФ)
+http://127.0.0.1:6878/ace/getstream?id=008fd13985cb58fa7ad8de1011ee8b6dc6b1cfc7&.mp4
 #EXTINF:-1,Россия 1 HD
 http://127.0.0.1:6878/ace/getstream?id=64ab00b36784cea281b079eb984d663b6c5c1a71&.mp4
+#EXTINF:-1,Россия 1
+http://127.0.0.1:6878/ace/getstream?id=90f6acf804d069c028ffd1dbb103b6850c17928a&.mp4
 #EXTINF:-1,НТВ HD
 http://127.0.0.1:6878/ace/getstream?id=2a4a7ffebbd4fd04650e505ce30501bb57bcede4&.mp4
+#EXTINF:-1,НТВ
+http://127.0.0.1:6878/ace/getstream?id=7e9a0c271d243f3f629c68522bd4b7a8bfcfe19b&.mp4
 #EXTINF:-1,ТВ Центр
 http://127.0.0.1:6878/ace/getstream?id=b4990ad9e279dee11ad98198a1fadcd72dcdbcc6&.mp4
 #EXTINF:-1,РЕН ТВ HD
 http://127.0.0.1:6878/ace/getstream?id=e191ac2dbc186ef1f801416213b0829ad54d261d&.mp4
+#EXTINF:-1,РЕН ТВ
+http://127.0.0.1:6878/ace/getstream?id=bd1ad32b982b1c61daf3bddcc632a00842f7866d&.mp4
 #EXTINF:-1,ТНТ HD
 http://127.0.0.1:6878/ace/getstream?id=5b4690778c4dc3fbfb6246af893296a217c54cf0&.mp4
 #EXTINF:-1,ТНТ4 HD
 http://127.0.0.1:6878/ace/getstream?id=bdae095c3d2611bc28192c8f507951f193c1c657&.mp4
 #EXTINF:-1,СТС HD
 http://127.0.0.1:6878/ace/getstream?id=429589fd6f42d5c240a5d8a620a896a4e92f3299&.mp4
+#EXTINF:-1,СТС
+http://127.0.0.1:6878/ace/getstream?id=af919a410f17609c4e0b0ecc9fcc16025288b791&.mp4
 #EXTINF:-1,Россия 24
 http://127.0.0.1:6878/ace/getstream?id=85ed30a1c80488617ed6e72a1829742588bb111e&.mp4
 #EXTINF:-1,Домашний
@@ -28,8 +40,6 @@ http://127.0.0.1:6878/ace/getstream?id=a8452ffa735f9843b7ce1d6f01150f33247f3e6d&
 http://127.0.0.1:6878/ace/getstream?id=f0cca6ea4d59beab5fa861d00153ab26f896d8ce&.mp4
 #EXTINF:-1,Дождь
 http://127.0.0.1:6878/ace/getstream?id=a1408b36bcc0bd308601147119138c4088742365&.mp4
-#EXTINF:-1,СТС
-http://127.0.0.1:6878/ace/getstream?id=af919a410f17609c4e0b0ecc9fcc16025288b791&.mp4
 #EXTINF:-1,К1
 http://127.0.0.1:6878/ace/getstream?id=a15b22735fe577f46cef8262c76e341bf18b7d95&.mp4
 #EXTINF:-1,Радио Шансон TV
@@ -192,24 +202,16 @@ http://127.0.0.1:6878/ace/getstream?id=aa1fa64f97bb8994b5e9d601b9bd60befec8cd61&
 http://127.0.0.1:6878/ace/getstream?id=031a48ee3c3ef5540ce2312222d252d0fde255da&.mp4
 #EXTINF:-1,Матч! Арена
 http://127.0.0.1:6878/ace/getstream?id=6885b8ae968708a3ffd7264e3191d4b71a776d1e&.mp4
-#EXTINF:-1,Россия 1
-http://127.0.0.1:6878/ace/getstream?id=90f6acf804d069c028ffd1dbb103b6850c17928a&.mp4
 #EXTINF:-1,НТВ (+2)
 http://127.0.0.1:6878/ace/getstream?id=41c1b5dd9ba799940d98e4a57ee4497439586258&.mp4
-#EXTINF:-1,Первый канал
-http://127.0.0.1:6878/ace/getstream?id=00ab9e1b7abfb1eb5c6cbafdaf485464af60f274&.mp4
 #EXTINF:-1,ТНТ
 http://127.0.0.1:6878/ace/getstream?id=e993696a8d1f7b67d87011ec030137ec947b44a9&.mp4
-#EXTINF:-1,НТВ
-http://127.0.0.1:6878/ace/getstream?id=7e9a0c271d243f3f629c68522bd4b7a8bfcfe19b&.mp4
 #EXTINF:-1,Евроспорт 4к
 http://127.0.0.1:6878/ace/getstream?id=b2069cd5ade30a2f4cc9f21b7d10f12634fa3fda&.mp4
 #EXTINF:-1,ТНТ (+2)
 http://127.0.0.1:6878/ace/getstream?id=5e496d35bb5b471184ec23fe0e0d92cf9853dca8&.mp4
 #EXTINF:-1,НТВ (+7)
 http://127.0.0.1:6878/ace/getstream?id=00c410e81d9254063176a52e0a727e1a602efacc&.mp4
-#EXTINF:-1,РЕН ТВ
-http://127.0.0.1:6878/ace/getstream?id=bd1ad32b982b1c61daf3bddcc632a00842f7866d&.mp4
 #EXTINF:-1,Россия 1 (-1)
 http://127.0.0.1:6878/ace/getstream?id=fa23aa466abc21cea3c096b32bd07ab887a26e07&.mp4
 #EXTINF:-1,Первый канал (+1) (Саратов)
@@ -1340,8 +1342,6 @@ http://127.0.0.1:6878/ace/getstream?id=9a831a3e146a58dbf80d774f622cb9a1611d99bc&
 http://127.0.0.1:6878/ace/getstream?id=1cc72f7a5f1286bd72d23ff45a6426cdb4236f0b&.mp4
 #EXTINF:-1,Матч!
 http://127.0.0.1:6878/ace/getstream?id=bd6bd5838af67ada2ce5b9c0a50200a69f8613d0&.mp4
-#EXTINF:-1,Первый канал (РФ)
-http://127.0.0.1:6878/ace/getstream?id=008fd13985cb58fa7ad8de1011ee8b6dc6b1cfc7&.mp4
 #EXTINF:-1,Пятница (+4)
 http://127.0.0.1:6878/ace/getstream?id=555f840f4a2997891aff8f77b0b8814c4c560947&.mp4
 #EXTINF:-1,НТВ Хит
