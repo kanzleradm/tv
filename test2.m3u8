@@ -1,0 +1,40 @@
+#EXTM3U
+#EXTINF:0,=== Обновлён: 10.12.2021 === smarttvnews.ru ===
+#EXTGRP:unsorted
+https://smarttvnews.ru/wp-content/uploads/2018/11/BT-2016-logo_color7890.png
+#EXTINF:0,Ultra HD Cinema 4K UHD
+#EXTGRP:Кино
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw20000000/variant.m3u8?version=2
+#EXTINF:0,ULTRA REX 4K UHD
+#EXTGRP:Кино
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw20000000/variant.m3u8?version=2
+#EXTINF:0,Ultra REX FullHD
+#EXTGRP:Кино
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
+#EXTINF:0,Ultra HD cinema
+#EXTGRP:Кино
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2&hd
+#EXTINF:0,Ultra HD Cinema FulHD
+#EXTGRP:Кино
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8
+#EXTINF:0,Ultra HD Cinema
+#EXTGRP:Кино
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?|User-agent=HlsWinkPlayer
+#EXTINF:0,VIP Premiere
+#EXTGRP:Кино
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
+#EXTINF:0,VIP Megahit
+#EXTGRP:Кино
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
+#EXTINF:0,VIP Comedy
+#EXTGRP:Кино
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
+#EXTINF:0,VIP Serial
+#EXTGRP:Кино
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
+#EXTINF:0,TV1000 HD
+#EXTGRP:Кино
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
+#EXTINF:0,TV1000 Action HD
+#EXTGRP:Кино
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
